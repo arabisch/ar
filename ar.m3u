@@ -215,10 +215,7 @@ http://www.teledunet.tv:8888/otv_lebanon.m3u8?idu=future_82354624560
 
 #EXTINF:69 tvg-logo="" group-title="Children", Children 
 
-#EXTINF:70",Al Sirat Tv
-http://www.teledunet.tv:8888/al_sirat_tv.m3u8?idu=future_82354624560
-#EXTINF:72",Aliman Tv
-http://www.teledunet.tv:8888/aliman_tv.m3u8?idu=future_82354624560
+
 #EXTINF:74",Noursat
 http://www.teledunet.tv:8888/noursat.m3u8?idu=future_82354624560
 #EXTINF:76",Noursat Alchabab
@@ -245,8 +242,7 @@ http://www.teledunet.tv:8888/karameesh.m3u8?idu=future_82354624560
 http://www.teledunet.tv:8888/cartoon_network.m3u8?idu=future_82354624560
 #EXTINF:98",Ajyal
 http://www.teledunet.tv:8888/ajyal.m3u8?idu=future_82354624560
-#EXTINF:100",CNN
-http://www.teledunet.tv:8888/cnn.m3u8?idu=future_82354624560
+
 
 
 
