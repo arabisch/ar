@@ -149,6 +149,53 @@ http://www.teledunet.tv:8888/nat_geo_ad.m3u8?idu=future_82354624560
 
 
 
+#EXTINF:19 tvg-logo="" group-title="Islamic Golf", Islamic
+#EXTINF:-1,QURAN.TV
+http://5.9.118.115:8000/live/ashraf/ashraf/1972.ts
+#EXTINF:-1,TIME-QURAN
+http://5.9.118.115:8000/live/ashraf/ashraf/596.ts
+#EXTINF:-1,Saudi.Sunna
+http://5.9.118.115:8000/live/ashraf/ashraf/1458.ts
+#EXTINF:-1,Saudia-Quran
+http://5.9.118.115:8000/live/ashraf/ashraf/1194.ts
+#EXTINF:-1,ISLAM:Ahel-Al-Quran
+http://5.9.118.115:8000/live/ashraf/ashraf/590.ts
+#EXTINF:-1,Azhari
+http://5.9.118.115:8000/live/ashraf/ashraf/1937.ts
+#EXTINF:-1,ALNADATV
+http://5.9.118.115:8000/live/ashraf/ashraf/1939.ts
+#EXTINF:-1,MTA3.Al.Arabiyah
+http://5.9.118.115:8000/live/ashraf/ashraf/1953.ts
+#EXTINF:-1,Almajd.Scientific
+http://5.9.118.115:8000/live/ashraf/ashraf/1456.ts
+#EXTINF:-1,Al_Majd_Islamic
+http://5.9.118.115:8000/live/ashraf/ashraf/1790.ts
+#EXTINF:-1,Almajd.Ahadeeth
+http://5.9.118.115:8000/live/ashraf/ashraf/1455.ts
+#EXTINF:-1,BINOTHAIMEEN
+http://5.9.118.115:8000/live/ashraf/ashraf/1962.ts
+#EXTINF:-1,Tabah-TV
+http://5.9.118.115:8000/live/ashraf/ashraf/600.ts
+#EXTINF:-1,Al-Foratr
+http://5.9.118.115:8000/live/ashraf/ashraf/460.ts
+#EXTINF:-1,4-SHABAB-TV1
+http://5.9.118.115:8000/live/ashraf/ashraf/267.ts
+#EXTINF:-1,ALRAHMA
+http://5.9.118.115:8000/live/ashraf/ashraf/584.ts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
