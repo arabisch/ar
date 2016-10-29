@@ -87,7 +87,9 @@ http://www.teledunet.tv:8888/noor_dubai.m3u8?idu=future_82354624560
 http://www.teledunet.tv:8888/dubai_one.m3u8?idu=future_82354624560
 
 
-#EXTINF:26",Aljazeera Doc
+
+
+#EXTINF:25 tvg-logo="http://ar4download.com/wp-content/uploads/2013/09/mzl.ftgzgojv.png" group-title="Doc", Aljazeera Doc
 http://www.teledunet.tv:8888/aljazeera_doc.m3u8?idu=future_82354624560
 #EXTINF:27",Aljazeera Misr
 http://www.teledunet.tv:8888/aljazeera_misr.m3u8?idu=future_82354624560
