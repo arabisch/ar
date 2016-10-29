@@ -1,1 +1,554 @@
-# ar
+#EXTM3U
+#EXTINF:1 tvg-logo="http://www.mbc.net/ar/mbc1/ogImageBinary/ba71b92a828a5e4372f2a822e454584b8cd54d17/MBC1.jpg" group-title="MBC GROUP", MBC 1		
+http://www.teledunet.tv:8888/mbc_1.m3u8?idu=future_82354624560
+
+#EXTINF:2 tvg-logo="http://4.bp.blogspot.com/-OmFLWDokObI/VohZRCc9ZRI/AAAAAAAAA0A/d2PTa3dYkCY/s1600/cb3bfe91-cf6e-473b-9ac3-6ac701be8483.png" group-title="MBC GROUP", MBC 2
+http://www.teledunet.tv:8888/mbc_2.m3u8?idu=future_82354624560
+
+#EXTINF:3 tvg-logo="http://www.6rrb.net/tv/files/image/mbc3.jpg" group-title="MBC GROUP", MBC 3
+http://www.teledunet.tv:8888/mbc_3.m3u8?idu=future_82354624560
+
+#EXTINF:4 tvg-logo="http://www.mbc.net/ar/mbc1/ogImageBinary/ba71b92a828a5e4372f2a822e454584b8cd54d17/MBC1.jpg" group-title="MBC GROUP", MBC 4
+http://www.teledunet.tv:8888/mbc_4.m3u8?idu=future_82354624560
+
+
+#EXTINF:4 tvg-logo="https://kurdtvs.com/uploads/files/20-06-2016-0af07839-mbc-action-kurdtvs-com.png" group-title="MBC GROUP", MBC Action
+http://www.teledunet.tv:8888/mbc_action.m3u8?idu=future_82354624560
+
+#EXTINF:136",MBC Bollywood
+http://www.teledunet.tv:8888/mbc_bollywood.m3u8?idu=future_82354624560
+#EXTINF:138",MBC Drama
+http://www.teledunet.tv:8888/mbc_drama.m3u8?idu=future_82354624560
+#EXTINF:140",MBC Masr
+http://www.teledunet.tv:8888/mbc_masr.m3u8?idu=future_82354624560
+#EXTINF:142",MBC Masr 2
+http://www.teledunet.tv:8888/mbc_masr_2.m3u8?idu=future_82354624560
+#EXTINF:144",MBC Max
+http://www.teledunet.tv:8888/mbc_max.m3u8?idu=future_82354624560
+#EXTINF:2",Teledunet Tv
+http://www.teledunet.tv:8888/teledunet_tv.m3u8?idu=future_82354624560
+#EXTINF:4",Tunisia national 1
+http://www.teledunet.tv:8888/tunisia_national_1.m3u8?idu=future_82354624560
+#EXTINF:6",Tunisia national 2
+http://www.teledunet.tv:8888/tunisia_national_2.m3u8?idu=future_82354624560
+#EXTINF:8",Nessma
+http://www.teledunet.tv:8888/nessma.m3u8?idu=future_82354624560
+#EXTINF:10",Al Tunisia
+http://www.teledunet.tv:8888/al_tunisia.m3u8?idu=future_82354624560
+#EXTINF:12",Hanibal
+http://www.teledunet.tv:8888/hanibal.m3u8?idu=future_82354624560
+#EXTINF:14",Attassia Tv
+http://www.teledunet.tv:8888/attassia_tv.m3u8?idu=future_82354624560
+#EXTINF:16",Al Moustakilla
+http://www.teledunet.tv:8888/al_moustakilla.m3u8?idu=future_82354624560
+#EXTINF:18",Al janoubiya
+http://www.teledunet.tv:8888/al_janoubiya.m3u8?idu=future_82354624560
+#EXTINF:20",Tounesna
+http://www.teledunet.tv:8888/tounesna.m3u8?idu=future_82354624560
+#EXTINF:22",Zaytoona
+http://www.teledunet.tv:8888/zaytoona.m3u8?idu=future_82354624560
+#EXTINF:24",Tunisia First TV
+http://www.teledunet.tv:8888/tunisia_first_tv.m3u8?idu=future_82354624560
+#EXTINF:26",Zitouna Hidaya
+http://www.teledunet.tv:8888/zitouna_hidaya.m3u8?idu=future_82354624560
+#EXTINF:28",M Tunisia
+http://www.teledunet.tv:8888/m_tunisia.m3u8?idu=future_82354624560
+#EXTINF:30",Al Magharibia
+http://www.teledunet.tv:8888/al_magharibia.m3u8?idu=future_82354624560
+#EXTINF:32",Syria
+http://www.teledunet.tv:8888/syria.m3u8?idu=future_82354624560
+#EXTINF:34",Syria Drama
+http://www.teledunet.tv:8888/syria_drama.m3u8?idu=future_82354624560
+#EXTINF:36",Sama Tv
+http://www.teledunet.tv:8888/sama_tv.m3u8?idu=future_82354624560
+#EXTINF:38",Nour Sham
+http://www.teledunet.tv:8888/nour_sham.m3u8?idu=future_82354624560
+#EXTINF:40",ANN
+http://www.teledunet.tv:8888/ann.m3u8?idu=future_82354624560
+#EXTINF:42",Al Ekhbariya Al Soriya
+http://www.teledunet.tv:8888/al_ekhbariya_al_soriya.m3u8?idu=future_82354624560
+#EXTINF:44",Al mayaden
+http://www.teledunet.tv:8888/al_mayaden.m3u8?idu=future_82354624560
+#EXTINF:46",Lebanon Tv
+http://www.teledunet.tv:8888/lebanon_tv.m3u8?idu=future_82354624560
+#EXTINF:48",Hawacom
+http://www.teledunet.tv:8888/hawacom.m3u8?idu=future_82354624560
+#EXTINF:50",Future
+http://www.teledunet.tv:8888/future.m3u8?idu=future_82354624560
+#EXTINF:52",Aljadeed
+http://www.teledunet.tv:8888/aljadeed.m3u8?idu=future_82354624560
+#EXTINF:54",Heya TV
+http://www.teledunet.tv:8888/heya_tv.m3u8?idu=future_82354624560
+#EXTINF:56",LBC
+http://www.teledunet.tv:8888/lbc.m3u8?idu=future_82354624560
+#EXTINF:58",MTV
+http://www.teledunet.tv:8888/mtv.m3u8?idu=future_82354624560
+#EXTINF:60",NBN
+http://www.teledunet.tv:8888/nbn.m3u8?idu=future_82354624560
+#EXTINF:62",Al Manar
+http://www.teledunet.tv:8888/al_manar.m3u8?idu=future_82354624560
+#EXTINF:64",LDC
+http://www.teledunet.tv:8888/ldc.m3u8?idu=future_82354624560
+#EXTINF:66",Arabica Tv
+http://www.teledunet.tv:8888/arabica_tv.m3u8?idu=future_82354624560
+#EXTINF:68",OTV Lebanon
+http://www.teledunet.tv:8888/otv_lebanon.m3u8?idu=future_82354624560
+#EXTINF:70",Al Sirat Tv
+http://www.teledunet.tv:8888/al_sirat_tv.m3u8?idu=future_82354624560
+#EXTINF:72",Aliman Tv
+http://www.teledunet.tv:8888/aliman_tv.m3u8?idu=future_82354624560
+#EXTINF:74",Noursat
+http://www.teledunet.tv:8888/noursat.m3u8?idu=future_82354624560
+#EXTINF:76",Noursat Alchabab
+http://www.teledunet.tv:8888/noursat_alchabab.m3u8?idu=future_82354624560
+#EXTINF:78",LLBN
+http://www.teledunet.tv:8888/llbn.m3u8?idu=future_82354624560
+#EXTINF:80",Cima Ali Baba
+http://www.teledunet.tv:8888/cima_ali_baba.m3u8?idu=future_82354624560
+#EXTINF:82",Aljazeera Children
+http://www.teledunet.tv:8888/aljazeera_children.m3u8?idu=future_82354624560
+#EXTINF:84",Baraem
+http://www.teledunet.tv:8888/baraem.m3u8?idu=future_82354624560
+#EXTINF:86",Toyor Baby
+http://www.teledunet.tv:8888/toyor_baby.m3u8?idu=future_82354624560
+#EXTINF:88",Toyor Al Janah
+http://www.teledunet.tv:8888/toyor_al_janah.m3u8?idu=future_82354624560
+#EXTINF:90",Spacetoon
+http://www.teledunet.tv:8888/spacetoon.m3u8?idu=future_82354624560
+#EXTINF:92",Taha Tv
+http://www.teledunet.tv:8888/taha_tv.m3u8?idu=future_82354624560
+#EXTINF:94",Karameesh
+http://www.teledunet.tv:8888/karameesh.m3u8?idu=future_82354624560
+#EXTINF:96",Cartoon Network
+http://www.teledunet.tv:8888/cartoon_network.m3u8?idu=future_82354624560
+#EXTINF:98",Ajyal
+http://www.teledunet.tv:8888/ajyal.m3u8?idu=future_82354624560
+#EXTINF:100",CNN
+http://www.teledunet.tv:8888/cnn.m3u8?idu=future_82354624560
+#EXTINF:102",Aljazeera
+http://www.teledunet.tv:8888/aljazeera.m3u8?idu=future_82354624560
+#EXTINF:104",Aljazeera Doc
+http://www.teledunet.tv:8888/aljazeera_doc.m3u8?idu=future_82354624560
+#EXTINF:106",Aljazeera Misr
+http://www.teledunet.tv:8888/aljazeera_misr.m3u8?idu=future_82354624560
+#EXTINF:108",Alarabiya
+http://www.teledunet.tv:8888/alarabiya.m3u8?idu=future_82354624560
+#EXTINF:110",Sky News Ar
+http://www.teledunet.tv:8888/sky_news_ar.m3u8?idu=future_82354624560
+#EXTINF:112",Al Arabia Hadath
+http://www.teledunet.tv:8888/al_arabia_hadath.m3u8?idu=future_82354624560
+#EXTINF:114",France24 Arabic
+http://www.teledunet.tv:8888/france24_arabic.m3u8?idu=future_82354624560
+#EXTINF:116",BBC arabic
+http://www.teledunet.tv:8888/bbc_arabic.m3u8?idu=future_82354624560
+#EXTINF:118",Russia Alyaum
+http://www.teledunet.tv:8888/russia_alyaum.m3u8?idu=future_82354624560
+#EXTINF:120",Al araby
+http://www.teledunet.tv:8888/al_araby.m3u8?idu=future_82354624560
+#EXTINF:122",TRT Arabia
+http://www.teledunet.tv:8888/trt_arabia.m3u8?idu=future_82354624560
+#EXTINF:124",Aghapy TV
+http://www.teledunet.tv:8888/aghapy_tv.m3u8?idu=future_82354624560
+
+#EXTINF:146",Wanasah
+http://www.teledunet.tv:8888/wanasah.m3u8?idu=future_82354624560
+#EXTINF:148",Art Aflam 1
+http://www.teledunet.tv:8888/art_aflam_1.m3u8?idu=future_82354624560
+#EXTINF:150",Art Aflam 2
+http://www.teledunet.tv:8888/art_aflam_2.m3u8?idu=future_82354624560
+#EXTINF:152",Art Cinema
+http://www.teledunet.tv:8888/art_cinema.m3u8?idu=future_82354624560
+#EXTINF:154",Art Hekayat
+http://www.teledunet.tv:8888/art_hekayat.m3u8?idu=future_82354624560
+#EXTINF:156",Art Hekayat 2
+http://www.teledunet.tv:8888/art_hekayat_2.m3u8?idu=future_82354624560
+#EXTINF:158",Dream 1
+http://www.teledunet.tv:8888/dream_1.m3u8?idu=future_82354624560
+#EXTINF:160",4Shabab
+http://www.teledunet.tv:8888/4shabab.m3u8?idu=future_82354624560
+#EXTINF:162",Faraeen
+http://www.teledunet.tv:8888/faraeen.m3u8?idu=future_82354624560
+#EXTINF:164",Moga Comedy
+http://www.teledunet.tv:8888/moga_comedy.m3u8?idu=future_82354624560
+#EXTINF:166",CTV
+http://www.teledunet.tv:8888/ctv.m3u8?idu=future_82354624560
+#EXTINF:168",On TV
+http://www.teledunet.tv:8888/on_tv.m3u8?idu=future_82354624560
+#EXTINF:170",Ten
+http://www.teledunet.tv:8888/ten.m3u8?idu=future_82354624560
+#EXTINF:172",CBC
+http://www.teledunet.tv:8888/cbc.m3u8?idu=future_82354624560
+#EXTINF:174",CBC 2
+http://www.teledunet.tv:8888/cbc_2.m3u8?idu=future_82354624560
+#EXTINF:176",CBC Drama
+http://www.teledunet.tv:8888/cbc_drama.m3u8?idu=future_82354624560
+#EXTINF:178",CBC Sofra
+http://www.teledunet.tv:8888/cbc_sofra.m3u8?idu=future_82354624560
+#EXTINF:180",Al Mehwar
+http://www.teledunet.tv:8888/al_mehwar.m3u8?idu=future_82354624560
+#EXTINF:182",Al oula
+http://www.teledunet.tv:8888/al_oula.m3u8?idu=future_82354624560
+#EXTINF:184",Al Thaniya
+http://www.teledunet.tv:8888/al_thaniya.m3u8?idu=future_82354624560
+#EXTINF:186",Melody Classic
+http://www.teledunet.tv:8888/melody_classic.m3u8?idu=future_82354624560
+#EXTINF:188",Al nahar
+http://www.teledunet.tv:8888/al_nahar.m3u8?idu=future_82354624560
+#EXTINF:190",Al Nahar Drama
+http://www.teledunet.tv:8888/al_nahar_drama.m3u8?idu=future_82354624560
+#EXTINF:192",Al Nahar Cinema
+http://www.teledunet.tv:8888/al_nahar_cinema.m3u8?idu=future_82354624560
+#EXTINF:194",Al nahar noor
+http://www.teledunet.tv:8888/al_nahar_noor.m3u8?idu=future_82354624560
+#EXTINF:196",Sada Al Balad
+http://www.teledunet.tv:8888/sada_al_balad.m3u8?idu=future_82354624560
+#EXTINF:198",Al Ahly Tv
+http://www.teledunet.tv:8888/al_ahly_tv.m3u8?idu=future_82354624560
+#EXTINF:200",Nile Comedy
+http://www.teledunet.tv:8888/nile_comedy.m3u8?idu=future_82354624560
+#EXTINF:202",Nile Sport
+http://www.teledunet.tv:8888/nile_sport.m3u8?idu=future_82354624560
+#EXTINF:204",Nile Drama
+http://www.teledunet.tv:8888/nile_drama.m3u8?idu=future_82354624560
+#EXTINF:206",Nile News
+http://www.teledunet.tv:8888/nile_news.m3u8?idu=future_82354624560
+#EXTINF:208",Nile Cinema
+http://www.teledunet.tv:8888/nile_cinema.m3u8?idu=future_82354624560
+#EXTINF:210",Cima
+http://www.teledunet.tv:8888/cima.m3u8?idu=future_82354624560
+#EXTINF:212",Toktok Aflam
+http://www.teledunet.tv:8888/toktok_aflam.m3u8?idu=future_82354624560
+#EXTINF:214",Al Masriyah
+http://www.teledunet.tv:8888/al_masriyah.m3u8?idu=future_82354624560
+#EXTINF:216",Al Kahera Wal Nas
+http://www.teledunet.tv:8888/al_kahera_wal_nas.m3u8?idu=future_82354624560
+#EXTINF:218",Cairo Cinema
+http://www.teledunet.tv:8888/cairo_cinema.m3u8?idu=future_82354624560
+#EXTINF:220",Cairo Drama
+http://www.teledunet.tv:8888/cairo_drama.m3u8?idu=future_82354624560
+#EXTINF:222",ALHayat Musalsalat
+http://www.teledunet.tv:8888/alhayat_musalsalat.m3u8?idu=future_82354624560
+#EXTINF:224",ALHayat
+http://www.teledunet.tv:8888/alhayat.m3u8?idu=future_82354624560
+#EXTINF:226",Alhayat 2
+http://www.teledunet.tv:8888/alhayat_2.m3u8?idu=future_82354624560
+#EXTINF:228",Panorama Comedy
+http://www.teledunet.tv:8888/panorama_comedy.m3u8?idu=future_82354624560
+#EXTINF:230",Panorama Food
+http://www.teledunet.tv:8888/panorama_food.m3u8?idu=future_82354624560
+#EXTINF:232",Panorama Drama
+http://www.teledunet.tv:8888/panorama_drama.m3u8?idu=future_82354624560
+#EXTINF:234",Panorama Drama 2
+http://www.teledunet.tv:8888/panorama_drama_2.m3u8?idu=future_82354624560
+#EXTINF:236",Nile Tv
+http://www.teledunet.tv:8888/nile_tv.m3u8?idu=future_82354624560
+#EXTINF:238",Bein Sport 1
+http://www.teledunet.tv:8888/bein_sport_1.m3u8?idu=future_82354624560
+#EXTINF:240",Bein Sport 2
+http://www.teledunet.tv:8888/bein_sport_2.m3u8?idu=future_82354624560
+#EXTINF:242",Bein Sport 3
+http://www.teledunet.tv:8888/bein_sport_3.m3u8?idu=future_82354624560
+#EXTINF:244",Bein Sport 4
+http://www.teledunet.tv:8888/bein_sport_4.m3u8?idu=future_82354624560
+#EXTINF:246",Bein Sport 5
+http://www.teledunet.tv:8888/bein_sport_5.m3u8?idu=future_82354624560
+#EXTINF:248",Bein Sport 6
+http://www.teledunet.tv:8888/bein_sport_6.m3u8?idu=future_82354624560
+#EXTINF:250",Bein Sport 7
+http://www.teledunet.tv:8888/bein_sport_7.m3u8?idu=future_82354624560
+#EXTINF:252",Bein Sport 8
+http://www.teledunet.tv:8888/bein_sport_8.m3u8?idu=future_82354624560
+#EXTINF:254",Bein Sport 9
+http://www.teledunet.tv:8888/bein_sport_9.m3u8?idu=future_82354624560
+#EXTINF:256",Bein Sport 10
+http://www.teledunet.tv:8888/bein_sport_10.m3u8?idu=future_82354624560
+#EXTINF:258",Bein 1
+http://www.teledunet.tv:8888/bein_1.m3u8?idu=future_82354624560
+#EXTINF:260",Bein 2
+http://www.teledunet.tv:8888/bein_2.m3u8?idu=future_82354624560
+#EXTINF:262",Bein 3
+http://www.teledunet.tv:8888/bein_3.m3u8?idu=future_82354624560
+#EXTINF:264",Bein 4
+http://www.teledunet.tv:8888/bein_4.m3u8?idu=future_82354624560
+#EXTINF:266",Bein 5
+http://www.teledunet.tv:8888/bein_5.m3u8?idu=future_82354624560
+#EXTINF:268",Al Aoula Maroc
+http://www.teledunet.tv:8888/al_aoula_maroc.m3u8?idu=future_82354624560
+#EXTINF:270",2M
+http://www.teledunet.tv:8888/2m.m3u8?idu=future_82354624560
+#EXTINF:272",Alriadia Sport
+http://www.teledunet.tv:8888/alriadia_sport.m3u8?idu=future_82354624560
+#EXTINF:274",Medi 1 Sat
+http://www.teledunet.tv:8888/medi_1_sat.m3u8?idu=future_82354624560
+#EXTINF:276",Al Maghribia
+http://www.teledunet.tv:8888/al_maghribia.m3u8?idu=future_82354624560
+#EXTINF:278",Arrabia
+http://www.teledunet.tv:8888/arrabia.m3u8?idu=future_82354624560
+#EXTINF:280",Assadissa
+http://www.teledunet.tv:8888/assadissa.m3u8?idu=future_82354624560
+#EXTINF:282",Tamazight
+http://www.teledunet.tv:8888/tamazight.m3u8?idu=future_82354624560
+#EXTINF:284",AlGeria
+http://www.teledunet.tv:8888/algeria.m3u8?idu=future_82354624560
+#EXTINF:286",Tamazight Algeria
+http://www.teledunet.tv:8888/tamazight_algeria.m3u8?idu=future_82354624560
+#EXTINF:288",Coran
+http://www.teledunet.tv:8888/coran.m3u8?idu=future_82354624560
+#EXTINF:290",Algeria 3
+http://www.teledunet.tv:8888/algeria_3.m3u8?idu=future_82354624560
+#EXTINF:292",Echorouk Tv
+http://www.teledunet.tv:8888/echorouk_tv.m3u8?idu=future_82354624560
+#EXTINF:294",Echorouk Benna Tv
+http://www.teledunet.tv:8888/echorouk_benna_tv.m3u8?idu=future_82354624560
+#EXTINF:296",Ennahar Tv
+http://www.teledunet.tv:8888/ennahar_tv.m3u8?idu=future_82354624560
+#EXTINF:298",Samira Tv
+http://www.teledunet.tv:8888/samira_tv.m3u8?idu=future_82354624560
+#EXTINF:300",EL DJAZAIRIA
+http://www.teledunet.tv:8888/el_djazairia.m3u8?idu=future_82354624560
+#EXTINF:302",Dzair News
+http://www.teledunet.tv:8888/dzair_news.m3u8?idu=future_82354624560
+#EXTINF:304",El Heddaf TV
+http://www.teledunet.tv:8888/el_heddaf_tv.m3u8?idu=future_82354624560
+#EXTINF:306",KBC Algeria
+http://www.teledunet.tv:8888/kbc_algeria.m3u8?idu=future_82354624560
+#EXTINF:308",Zee Aflam
+http://www.teledunet.tv:8888/zee_aflam.m3u8?idu=future_82354624560
+#EXTINF:310",Zee Alwan
+http://www.teledunet.tv:8888/zee_alwan.m3u8?idu=future_82354624560
+#EXTINF:312",B4U Aflam
+http://www.teledunet.tv:8888/b4u_aflam.m3u8?idu=future_82354624560
+#EXTINF:314",Rotana cinema
+http://www.teledunet.tv:8888/rotana_cinema.m3u8?idu=future_82354624560
+#EXTINF:316",Rotana Classic
+http://www.teledunet.tv:8888/rotana_classic.m3u8?idu=future_82354624560
+#EXTINF:318",Rotana Aflam
+http://www.teledunet.tv:8888/rotana_aflam.m3u8?idu=future_82354624560
+#EXTINF:320",Rotana Masriya
+http://www.teledunet.tv:8888/rotana_masriya.m3u8?idu=future_82354624560
+#EXTINF:322",Rotana Music
+http://www.teledunet.tv:8888/rotana_music.m3u8?idu=future_82354624560
+#EXTINF:324",Rotana Clip
+http://www.teledunet.tv:8888/rotana_clip.m3u8?idu=future_82354624560
+#EXTINF:326",Rotana Khaligi
+http://www.teledunet.tv:8888/rotana_khaligi.m3u8?idu=future_82354624560
+#EXTINF:328",Blue Nile
+http://www.teledunet.tv:8888/blue_nile.m3u8?idu=future_82354624560
+#EXTINF:330",Sudan Tv
+http://www.teledunet.tv:8888/sudan_tv.m3u8?idu=future_82354624560
+#EXTINF:332",Neelain Sport
+http://www.teledunet.tv:8888/neelain_sport.m3u8?idu=future_82354624560
+#EXTINF:334",Abu Dhabi
+http://www.teledunet.tv:8888/abu_dhabi.m3u8?idu=future_82354624560
+#EXTINF:336",Abu Dhabi Drama
+http://www.teledunet.tv:8888/abu_dhabi_drama.m3u8?idu=future_82354624560
+#EXTINF:338",Abu Dhabi Emarat
+http://www.teledunet.tv:8888/abu_dhabi_emarat.m3u8?idu=future_82354624560
+#EXTINF:340",Abu Dhabi Sports 1
+http://www.teledunet.tv:8888/abu_dhabi_sports_1.m3u8?idu=future_82354624560
+#EXTINF:342",Abu Dhabi Sports 2
+http://www.teledunet.tv:8888/abu_dhabi_sports_2.m3u8?idu=future_82354624560
+#EXTINF:344",Dubai Sport 1
+http://www.teledunet.tv:8888/dubai_sport_1.m3u8?idu=future_82354624560
+#EXTINF:346",Nat Geo Ad
+http://www.teledunet.tv:8888/nat_geo_ad.m3u8?idu=future_82354624560
+#EXTINF:348",Dubai
+http://www.teledunet.tv:8888/dubai.m3u8?idu=future_82354624560
+#EXTINF:350",Sama Dubai
+http://www.teledunet.tv:8888/sama_dubai.m3u8?idu=future_82354624560
+#EXTINF:352",Dubai One
+http://www.teledunet.tv:8888/dubai_one.m3u8?idu=future_82354624560
+#EXTINF:354",Noor Dubai
+http://www.teledunet.tv:8888/noor_dubai.m3u8?idu=future_82354624560
+#EXTINF:356",Quest Arabiya
+http://www.teledunet.tv:8888/quest_arabiya.m3u8?idu=future_82354624560
+#EXTINF:358",Orient
+http://www.teledunet.tv:8888/orient.m3u8?idu=future_82354624560
+#EXTINF:360",Safa Tv
+http://www.teledunet.tv:8888/safa_tv.m3u8?idu=future_82354624560
+#EXTINF:362",Sharqia News
+http://www.teledunet.tv:8888/sharqia_news.m3u8?idu=future_82354624560
+#EXTINF:364",Al Turkmenia
+http://www.teledunet.tv:8888/al_turkmenia.m3u8?idu=future_82354624560
+#EXTINF:366",Hona Baghdad
+http://www.teledunet.tv:8888/hona_baghdad.m3u8?idu=future_82354624560
+#EXTINF:368",Al Iraqiya
+http://www.teledunet.tv:8888/al_iraqiya.m3u8?idu=future_82354624560
+#EXTINF:370",Al ghadeer
+http://www.teledunet.tv:8888/al_ghadeer.m3u8?idu=future_82354624560
+#EXTINF:372",Afaq Tv
+http://www.teledunet.tv:8888/afaq_tv.m3u8?idu=future_82354624560
+#EXTINF:374",Al Hadath
+http://www.teledunet.tv:8888/al_hadath.m3u8?idu=future_82354624560
+#EXTINF:376",Al Forat
+http://www.teledunet.tv:8888/al_forat.m3u8?idu=future_82354624560
+#EXTINF:378",Alanwar
+http://www.teledunet.tv:8888/alanwar.m3u8?idu=future_82354624560
+#EXTINF:380",Iraqia sport
+http://www.teledunet.tv:8888/iraqia_sport.m3u8?idu=future_82354624560
+#EXTINF:382",Al Mawsleya
+http://www.teledunet.tv:8888/al_mawsleya.m3u8?idu=future_82354624560
+#EXTINF:384",Dijlah Tv
+http://www.teledunet.tv:8888/dijlah_tv.m3u8?idu=future_82354624560
+#EXTINF:386",Al Anbar
+http://www.teledunet.tv:8888/al_anbar.m3u8?idu=future_82354624560
+#EXTINF:388",Karbala Tv
+http://www.teledunet.tv:8888/karbala_tv.m3u8?idu=future_82354624560
+#EXTINF:390",Al Sharqiya
+http://www.teledunet.tv:8888/al_sharqiya.m3u8?idu=future_82354624560
+#EXTINF:392",Al hurra Iraq
+http://www.teledunet.tv:8888/al_hurra_iraq.m3u8?idu=future_82354624560
+#EXTINF:394",Al Rafidain
+http://www.teledunet.tv:8888/al_rafidain.m3u8?idu=future_82354624560
+#EXTINF:396",Al Sumaria
+http://www.teledunet.tv:8888/al_sumaria.m3u8?idu=future_82354624560
+#EXTINF:398",Baghdad
+http://www.teledunet.tv:8888/baghdad.m3u8?idu=future_82354624560
+#EXTINF:400",Aghanina
+http://www.teledunet.tv:8888/aghanina.m3u8?idu=future_82354624560
+#EXTINF:402",Al Diyar
+http://www.teledunet.tv:8888/al_diyar.m3u8?idu=future_82354624560
+#EXTINF:404",Ishtar
+http://www.teledunet.tv:8888/ishtar.m3u8?idu=future_82354624560
+#EXTINF:406",Al rasheed
+http://www.teledunet.tv:8888/al_rasheed.m3u8?idu=future_82354624560
+#EXTINF:408",Al Haneen Music
+http://www.teledunet.tv:8888/al_haneen_music.m3u8?idu=future_82354624560
+#EXTINF:410",Qatar
+http://www.teledunet.tv:8888/qatar.m3u8?idu=future_82354624560
+#EXTINF:412",Palestine
+http://www.teledunet.tv:8888/palestine.m3u8?idu=future_82354624560
+#EXTINF:414",Alqudis
+http://www.teledunet.tv:8888/alqudis.m3u8?idu=future_82354624560
+#EXTINF:416",KSA 1
+http://www.teledunet.tv:8888/ksa_1.m3u8?idu=future_82354624560
+#EXTINF:418",KSA 2
+http://www.teledunet.tv:8888/ksa_2.m3u8?idu=future_82354624560
+#EXTINF:420",Al Quran Al Karim
+http://www.teledunet.tv:8888/al_quran_al_karim.m3u8?idu=future_82354624560
+#EXTINF:422",Al Resalah
+http://www.teledunet.tv:8888/al_resalah.m3u8?idu=future_82354624560
+#EXTINF:424",Alkass Tv
+http://www.teledunet.tv:8888/alkass_tv.m3u8?idu=future_82354624560
+#EXTINF:426",Iqra
+http://www.teledunet.tv:8888/iqra.m3u8?idu=future_82354624560
+#EXTINF:428",Al Ekhbaria
+http://www.teledunet.tv:8888/al_ekhbaria.m3u8?idu=future_82354624560
+#EXTINF:430",Al Majd
+http://www.teledunet.tv:8888/al_majd.m3u8?idu=future_82354624560
+#EXTINF:432",Al Alam
+http://www.teledunet.tv:8888/al_alam.m3u8?idu=future_82354624560
+#EXTINF:434",Libya Tv
+http://www.teledunet.tv:8888/libya_tv.m3u8?idu=future_82354624560
+#EXTINF:436",Kuwait
+http://www.teledunet.tv:8888/kuwait.m3u8?idu=future_82354624560
+#EXTINF:438",Funoon
+http://www.teledunet.tv:8888/funoon.m3u8?idu=future_82354624560
+#EXTINF:440",Roya
+http://www.teledunet.tv:8888/roya.m3u8?idu=future_82354624560
+#EXTINF:442",Jordan
+http://www.teledunet.tv:8888/jordan.m3u8?idu=future_82354624560
+#EXTINF:444",Noor jordan
+http://www.teledunet.tv:8888/noor_jordan.m3u8?idu=future_82354624560
+#EXTINF:446",Jordan Sport
+http://www.teledunet.tv:8888/jordan_sport.m3u8?idu=future_82354624560
+#EXTINF:448",Yemen
+http://www.teledunet.tv:8888/yemen.m3u8?idu=future_82354624560
+#EXTINF:450",Aden
+http://www.teledunet.tv:8888/aden.m3u8?idu=future_82354624560
+#EXTINF:452",Oman
+http://www.teledunet.tv:8888/oman.m3u8?idu=future_82354624560
+#EXTINF:454",Bahrain
+http://www.teledunet.tv:8888/bahrain.m3u8?idu=future_82354624560
+#EXTINF:456",Mauritanie
+http://www.teledunet.tv:8888/mauritanie.m3u8?idu=future_82354624560
+#EXTINF:458",Kurdmax
+http://www.teledunet.tv:8888/kurdmax.m3u8?idu=future_82354624560
+#EXTINF:460",EBC Ethiopia
+http://www.teledunet.tv:8888/ebc_ethiopia.m3u8?idu=future_82354624560
+#EXTINF:462",Tchad
+http://www.teledunet.tv:8888/tchad.m3u8?idu=future_82354624560
+#EXTINF:464",Eriteria Tv
+http://www.teledunet.tv:8888/eriteria_tv.m3u8?idu=future_82354624560
+#EXTINF:466",ESTV
+http://www.teledunet.tv:8888/estv.m3u8?idu=future_82354624560
+#EXTINF:468",SNTV
+http://www.teledunet.tv:8888/sntv.m3u8?idu=future_82354624560
+#EXTINF:470",Kalsan Tv
+http://www.teledunet.tv:8888/kalsan_tv.m3u8?idu=future_82354624560
+#EXTINF:472",Somali Land
+http://www.teledunet.tv:8888/somali_land.m3u8?idu=future_82354624560
+#EXTINF:474",Horn Cable Tv
+http://www.teledunet.tv:8888/horn_cable_tv.m3u8?idu=future_82354624560
+#EXTINF:476",Somali cable Tv
+http://www.teledunet.tv:8888/somali_cable_tv.m3u8?idu=future_82354624560
+#EXTINF:478",Universal Somali Tv
+http://www.teledunet.tv:8888/universal_somali_tv.m3u8?idu=future_82354624560
+#EXTINF:480",TF1
+http://www.teledunet.tv:8888/tf1.m3u8?idu=future_82354624560
+#EXTINF:482",M6
+http://www.teledunet.tv:8888/m6.m3u8?idu=future_82354624560
+#EXTINF:484",France 2
+http://www.teledunet.tv:8888/france_2.m3u8?idu=future_82354624560
+#EXTINF:486",France 3
+http://www.teledunet.tv:8888/france_3.m3u8?idu=future_82354624560
+#EXTINF:488",France 4
+http://www.teledunet.tv:8888/france_4.m3u8?idu=future_82354624560
+#EXTINF:490",France 5
+http://www.teledunet.tv:8888/france_5.m3u8?idu=future_82354624560
+#EXTINF:492",France O
+http://www.teledunet.tv:8888/france_o.m3u8?idu=future_82354624560
+#EXTINF:494",Gulli
+http://www.teledunet.tv:8888/gulli.m3u8?idu=future_82354624560
+#EXTINF:496",Piwi
+http://www.teledunet.tv:8888/piwi.m3u8?idu=future_82354624560
+#EXTINF:498",I Tele
+http://www.teledunet.tv:8888/i_tele.m3u8?idu=future_82354624560
+#EXTINF:500",W9
+http://www.teledunet.tv:8888/w9.m3u8?idu=future_82354624560
+#EXTINF:502",D8
+http://www.teledunet.tv:8888/d8.m3u8?idu=future_82354624560
+#EXTINF:504",ARTE
+http://www.teledunet.tv:8888/arte.m3u8?idu=future_82354624560
+#EXTINF:506",Canal plus
+http://www.teledunet.tv:8888/canal_plus.m3u8?idu=future_82354624560
+#EXTINF:508",Canal plus Sport
+http://www.teledunet.tv:8888/canal_plus_sport.m3u8?idu=future_82354624560
+#EXTINF:510",Osn Cinema 1
+http://www.teledunet.tv:8888/osn_cinema_1.m3u8?idu=future_82354624560
+#EXTINF:512",Osn Animal PLanet HD
+http://www.teledunet.tv:8888/osn_animal_planet_hd.m3u8?idu=future_82354624560
+#EXTINF:514",Osn Box Office 1
+http://www.teledunet.tv:8888/osn_box_office_1.m3u8?idu=future_82354624560
+#EXTINF:516",Osn Box Office 2
+http://www.teledunet.tv:8888/osn_box_office_2.m3u8?idu=future_82354624560
+#EXTINF:518",Osn Yahala HD
+http://www.teledunet.tv:8888/osn_yahala_hd.m3u8?idu=future_82354624560
+#EXTINF:520",Osn Yahlaa Drama
+http://www.teledunet.tv:8888/osn_yahlaa_drama.m3u8?idu=future_82354624560
+#EXTINF:522",Osn Fight HD
+http://www.teledunet.tv:8888/osn_fight_hd.m3u8?idu=future_82354624560
+#EXTINF:524",Osn First Comdy HD
+http://www.teledunet.tv:8888/osn_first_comdy_hd.m3u8?idu=future_82354624560
+#EXTINF:526",Osn First More
+http://www.teledunet.tv:8888/osn_first_more.m3u8?idu=future_82354624560
+#EXTINF:528",Osn First
+http://www.teledunet.tv:8888/osn_first.m3u8?idu=future_82354624560
+#EXTINF:530",Osn Movies Action 2 HD
+http://www.teledunet.tv:8888/osn_movies_action_2_hd.m3u8?idu=future_82354624560
+#EXTINF:532",Osn Movies Drama
+http://www.teledunet.tv:8888/osn_movies_drama.m3u8?idu=future_82354624560
+#EXTINF:534",Osn Movies HD
+http://www.teledunet.tv:8888/osn_movies_hd.m3u8?idu=future_82354624560
+#EXTINF:536",Osn Movies Kids
+http://www.teledunet.tv:8888/osn_movies_kids.m3u8?idu=future_82354624560
+#EXTINF:538",Osn Movies Premier
+http://www.teledunet.tv:8888/osn_movies_premier.m3u8?idu=future_82354624560
+#EXTINF:540",Osn Series Arabic
+http://www.teledunet.tv:8888/osn_series_arabic.m3u8?idu=future_82354624560
+#EXTINF:542",Osn Shabab
+http://www.teledunet.tv:8888/osn_shabab.m3u8?idu=future_82354624560
+#EXTINF:544",Osn Star Movies
+http://www.teledunet.tv:8888/osn_star_movies.m3u8?idu=future_82354624560
+#EXTINF:546",Osn Star world
+http://www.teledunet.tv:8888/osn_star_world.m3u8?idu=future_82354624560
