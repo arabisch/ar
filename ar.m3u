@@ -464,43 +464,32 @@ http://www.teledunet.tv:8888/nile_tv.m3u8?idu=future_82354624560
 
 
 
-#EXTINF:237 tvg-logo="" group-title="Sport", Sport 
-#EXTINF:238",Bein Sport 1
-http://www.teledunet.tv:8888/bein_sport_1.m3u8?idu=future_82354624560
-#EXTINF:240",Bein Sport 2
-http://www.teledunet.tv:8888/bein_sport_2.m3u8?idu=future_82354624560
-#EXTINF:242",Bein Sport 3
-http://www.teledunet.tv:8888/bein_sport_3.m3u8?idu=future_82354624560
-#EXTINF:244",Bein Sport 4
-http://www.teledunet.tv:8888/bein_sport_4.m3u8?idu=future_82354624560
-#EXTINF:246",Bein Sport 5
-http://www.teledunet.tv:8888/bein_sport_5.m3u8?idu=future_82354624560
-#EXTINF:248",Bein Sport 6
-http://www.teledunet.tv:8888/bein_sport_6.m3u8?idu=future_82354624560
-#EXTINF:250",Bein Sport 7
-http://www.teledunet.tv:8888/bein_sport_7.m3u8?idu=future_82354624560
-#EXTINF:252",Bein Sport 8
-http://www.teledunet.tv:8888/bein_sport_8.m3u8?idu=future_82354624560
-#EXTINF:254",Bein Sport 9
-http://www.teledunet.tv:8888/bein_sport_9.m3u8?idu=future_82354624560
-#EXTINF:256",Bein Sport 10
-http://www.teledunet.tv:8888/bein_sport_10.m3u8?idu=future_82354624560
-#EXTINF:258",Bein 1
-http://www.teledunet.tv:8888/bein_1.m3u8?idu=future_82354624560
-#EXTINF:260",Bein 2
-http://www.teledunet.tv:8888/bein_2.m3u8?idu=future_82354624560
-#EXTINF:262",Bein 3
-http://www.teledunet.tv:8888/bein_3.m3u8?idu=future_82354624560
-#EXTINF:264",Bein 4
-http://www.teledunet.tv:8888/bein_4.m3u8?idu=future_82354624560
-#EXTINF:266",Bein 5
-http://www.teledunet.tv:8888/bein_5.m3u8?idu=future_82354624560
 
 
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:25 tvg-logo="" group-title="Other", Other 
 
 
 #EXTINF:268",Al Aoula Maroc
@@ -715,25 +704,6 @@ http://www.teledunet.tv:8888/arte.m3u8?idu=future_82354624560
 http://www.teledunet.tv:8888/canal_plus.m3u8?idu=future_82354624560
 #EXTINF:508",Canal plus Sport
 http://www.teledunet.tv:8888/canal_plus_sport.m3u8?idu=future_82354624560
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:25 tvg-logo="" group-title="Other", Other 
 #EXTINF:26",Aljazeera Misr
 http://www.teledunet.tv:8888/aljazeera_misr.m3u8?idu=future_82354624560
 #EXTINF:27",Quest Arabiya
@@ -776,6 +746,37 @@ http://www.teledunet.tv:8888/al_magharibia.m3u8?idu=future_82354624560
 
 
 
+#EXTINF:237 tvg-logo="" group-title="Sport", Sport 
+#EXTINF:238",Bein Sport 1
+http://www.teledunet.tv:8888/bein_sport_1.m3u8?idu=future_82354624560
+#EXTINF:240",Bein Sport 2
+http://www.teledunet.tv:8888/bein_sport_2.m3u8?idu=future_82354624560
+#EXTINF:242",Bein Sport 3
+http://www.teledunet.tv:8888/bein_sport_3.m3u8?idu=future_82354624560
+#EXTINF:244",Bein Sport 4
+http://www.teledunet.tv:8888/bein_sport_4.m3u8?idu=future_82354624560
+#EXTINF:246",Bein Sport 5
+http://www.teledunet.tv:8888/bein_sport_5.m3u8?idu=future_82354624560
+#EXTINF:248",Bein Sport 6
+http://www.teledunet.tv:8888/bein_sport_6.m3u8?idu=future_82354624560
+#EXTINF:250",Bein Sport 7
+http://www.teledunet.tv:8888/bein_sport_7.m3u8?idu=future_82354624560
+#EXTINF:252",Bein Sport 8
+http://www.teledunet.tv:8888/bein_sport_8.m3u8?idu=future_82354624560
+#EXTINF:254",Bein Sport 9
+http://www.teledunet.tv:8888/bein_sport_9.m3u8?idu=future_82354624560
+#EXTINF:256",Bein Sport 10
+http://www.teledunet.tv:8888/bein_sport_10.m3u8?idu=future_82354624560
+#EXTINF:258",Bein 1
+http://www.teledunet.tv:8888/bein_1.m3u8?idu=future_82354624560
+#EXTINF:260",Bein 2
+http://www.teledunet.tv:8888/bein_2.m3u8?idu=future_82354624560
+#EXTINF:262",Bein 3
+http://www.teledunet.tv:8888/bein_3.m3u8?idu=future_82354624560
+#EXTINF:264",Bein 4
+http://www.teledunet.tv:8888/bein_4.m3u8?idu=future_82354624560
+#EXTINF:266",Bein 5
+http://www.teledunet.tv:8888/bein_5.m3u8?idu=future_82354624560
 
 
 
@@ -877,54 +878,6 @@ http://5.9.118.115:8000/live/ashraf/ashraf/191.ts
 http://5.9.118.115:8000/live/ashraf/ashraf/193.ts
 #EXTINF:-1,SHOW_CINEMA.1
 http://5.9.118.115:8000/live/ashraf/ashraf/1735.ts
-#EXTINF:-1,SHOW_CINEMA.2
-http://5.9.118.115:8000/live/ashraf/ashraf/1593.ts
-#EXTINF:-1,SHOW_CINEMA.3
-http://5.9.118.115:8000/live/ashraf/ashraf/1736.ts
-#EXTINF:-1,SHOW_CINEMA.4
-http://5.9.118.115:8000/live/ashraf/ashraf/1737.ts
-#EXTINF:-1,SHOW_CINEMA.5
-http://5.9.118.115:8000/live/ashraf/ashraf/3848.ts
-#EXTINF:-1,SHOW_CINEMA.6
-http://5.9.118.115:8000/live/ashraf/ashraf/3849.ts
-#EXTINF:-1,SHOW_CINEMA.7
-http://5.9.118.115:8000/live/ashraf/ashraf/3853.ts
-#EXTINF:-1,SHOW_CINEMA.8
-http://5.9.118.115:8000/live/ashraf/ashraf/3869.ts
-#EXTINF:-1,SHOW_CINEMA.9
-http://5.9.118.115:8000/live/ashraf/ashraf/3973.ts
-#EXTINF:-1,SHOW_CINEMA.10
-http://5.9.118.115:8000/live/ashraf/ashraf/3974.ts
-#EXTINF:-1,SHOW_CINEMA.11
-http://5.9.118.115:8000/live/ashraf/ashraf/3976.ts
-#EXTINF:-1,SHOW_CINEMA.12
-http://5.9.118.115:8000/live/ashraf/ashraf/3994.ts
-#EXTINF:-1,SHOW_CINEMA.13
-http://5.9.118.115:8000/live/ashraf/ashraf/3995.ts
-#EXTINF:-1,SHOW_CINEMA.14
-http://5.9.118.115:8000/live/ashraf/ashraf/3996.ts
-#EXTINF:-1,SHOW_CINEMA.15
-http://5.9.118.115:8000/live/ashraf/ashraf/4048.ts
-#EXTINF:-1,SHOW_CINEMA.16
-http://5.9.118.115:8000/live/ashraf/ashraf/4049.ts
-#EXTINF:-1,SHOW_CINEMA.17
-http://5.9.118.115:8000/live/ashraf/ashraf/4050.ts
-#EXTINF:-1,SHOW_CINEMA.18
-http://5.9.118.115:8000/live/ashraf/ashraf/4051.ts
-#EXTINF:-1,SHOW_CINEMA.19
-http://5.9.118.115:8000/live/ashraf/ashraf/4053.ts
-#EXTINF:-1,SHOW_CINEMA.20
-http://5.9.118.115:8000/live/ashraf/ashraf/4054.ts
-#EXTINF:-1,SHOW_CINEMA.21
-http://5.9.118.115:8000/live/ashraf/ashraf/4085.ts
-#EXTINF:-1,SHOW_CINEMA.22
-http://5.9.118.115:8000/live/ashraf/ashraf/4086.ts
-#EXTINF:-1,SHOW_WWE
-http://5.9.118.115:8000/live/ashraf/ashraf/3999.ts
-#EXTINF:-1,SHOW_KUNG.FU
-http://5.9.118.115:8000/live/ashraf/ashraf/4052.ts
-#EXTINF:-1,SHOW_HORROR.1
-http://5.9.118.115:8000/live/ashraf/ashraf/4000.ts
 #EXTINF:-1,MASR7_MASER_SEASON.1
 http://5.9.118.115:8000/live/ashraf/ashraf/3916.ts
 #EXTINF:-1,MASR7_MASER_SEASON.2
