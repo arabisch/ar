@@ -101,7 +101,12 @@ http://www.teledunet.tv:8888/noor_dubai.m3u8?idu=future_82354624560
 #EXTINF:22 tvg-logo="" group-title="GOLF GROUP", Dubai One
 http://www.teledunet.tv:8888/dubai_one.m3u8?idu=future_82354624560
 
-
+#EXTINF:334",Abu Dhabi
+http://www.teledunet.tv:8888/abu_dhabi.m3u8?idu=future_82354624560
+#EXTINF:336",Abu Dhabi Drama
+http://www.teledunet.tv:8888/abu_dhabi_drama.m3u8?idu=future_82354624560
+#EXTINF:338",Abu Dhabi Emarat
+http://www.teledunet.tv:8888/abu_dhabi_emarat.m3u8?idu=future_82354624560
 
 
 
@@ -214,7 +219,7 @@ http://www.teledunet.tv:8888/otv_lebanon.m3u8?idu=future_82354624560
 
 
 
-#EXTINF:69 tvg-logo="" group-title="Islamic", Islamic 
+#EXTINF:69 tvg-logo="" group-title="Children", Children 
 
 #EXTINF:70",Al Sirat Tv
 http://www.teledunet.tv:8888/al_sirat_tv.m3u8?idu=future_82354624560
@@ -469,12 +474,7 @@ http://www.teledunet.tv:8888/blue_nile.m3u8?idu=future_82354624560
 http://www.teledunet.tv:8888/sudan_tv.m3u8?idu=future_82354624560
 #EXTINF:332",Neelain Sport
 http://www.teledunet.tv:8888/neelain_sport.m3u8?idu=future_82354624560
-#EXTINF:334",Abu Dhabi
-http://www.teledunet.tv:8888/abu_dhabi.m3u8?idu=future_82354624560
-#EXTINF:336",Abu Dhabi Drama
-http://www.teledunet.tv:8888/abu_dhabi_drama.m3u8?idu=future_82354624560
-#EXTINF:338",Abu Dhabi Emarat
-http://www.teledunet.tv:8888/abu_dhabi_emarat.m3u8?idu=future_82354624560
+
 #EXTINF:340",Abu Dhabi Sports 1
 http://www.teledunet.tv:8888/abu_dhabi_sports_1.m3u8?idu=future_82354624560
 #EXTINF:342",Abu Dhabi Sports 2
