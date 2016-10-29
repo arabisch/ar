@@ -126,41 +126,19 @@ http://www.teledunet.tv:8888/nat_geo_ad.m3u8?idu=future_82354624560
 
 
 
-#EXTINF:25 tvg-logo="" group-title="Other", Other 
-#EXTINF:26",Aljazeera Misr
-http://www.teledunet.tv:8888/aljazeera_misr.m3u8?idu=future_82354624560
 
-#EXTINF:27",Quest Arabiya
-http://www.teledunet.tv:8888/quest_arabiya.m3u8?idu=future_82354624560
 
-#EXTINF:440",Tunisia national 1
-http://www.teledunet.tv:8888/tunisia_national_1.m3u8?idu=future_82354624560
-#EXTINF:442",Tunisia national 2
-http://www.teledunet.tv:8888/tunisia_national_2.m3u8?idu=future_82354624560
-#EXTINF:443",Nessma
-http://www.teledunet.tv:8888/nessma.m3u8?idu=future_82354624560
-#EXTINF:444",Al Tunisia
-http://www.teledunet.tv:8888/al_tunisia.m3u8?idu=future_82354624560
-#EXTINF:445",Hanibal
-http://www.teledunet.tv:8888/hanibal.m3u8?idu=future_82354624560
-#EXTINF:446",Attassia Tv
-http://www.teledunet.tv:8888/attassia_tv.m3u8?idu=future_82354624560
-#EXTINF:447",Al Moustakilla
-http://www.teledunet.tv:8888/al_moustakilla.m3u8?idu=future_82354624560
-#EXTINF:448",Al janoubiya
-http://www.teledunet.tv:8888/al_janoubiya.m3u8?idu=future_82354624560
-#EXTINF:449",Tounesna
-http://www.teledunet.tv:8888/tounesna.m3u8?idu=future_82354624560
-#EXTINF:450",Zaytoona
-http://www.teledunet.tv:8888/zaytoona.m3u8?idu=future_82354624560
-#EXTINF:451",Tunisia First TV
-http://www.teledunet.tv:8888/tunisia_first_tv.m3u8?idu=future_82354624560
-#EXTINF:452",Zitouna Hidaya
-http://www.teledunet.tv:8888/zitouna_hidaya.m3u8?idu=future_82354624560
-#EXTINF:453",M Tunisia
-http://www.teledunet.tv:8888/m_tunisia.m3u8?idu=future_82354624560
-#EXTINF:454",Al Magharibia
-http://www.teledunet.tv:8888/al_magharibia.m3u8?idu=future_82354624560
+
+
+
+
+
+
+
+
+
+
+#EXTINF:454 tvg-logo="" group-title="Syria", Syria 
 #EXTINF:455",Syria
 http://www.teledunet.tv:8888/syria.m3u8?idu=future_82354624560
 #EXTINF:34",Syria Drama
@@ -697,6 +675,42 @@ http://www.teledunet.tv:8888/osn_star_world.m3u8?idu=future_82354624560
 
 
 
+
+#EXTINF:25 tvg-logo="" group-title="Other", Other 
+#EXTINF:26",Aljazeera Misr
+http://www.teledunet.tv:8888/aljazeera_misr.m3u8?idu=future_82354624560
+
+#EXTINF:27",Quest Arabiya
+http://www.teledunet.tv:8888/quest_arabiya.m3u8?idu=future_82354624560
+
+#EXTINF:440",Tunisia national 1
+http://www.teledunet.tv:8888/tunisia_national_1.m3u8?idu=future_82354624560
+#EXTINF:442",Tunisia national 2
+http://www.teledunet.tv:8888/tunisia_national_2.m3u8?idu=future_82354624560
+#EXTINF:443",Nessma
+http://www.teledunet.tv:8888/nessma.m3u8?idu=future_82354624560
+#EXTINF:444",Al Tunisia
+http://www.teledunet.tv:8888/al_tunisia.m3u8?idu=future_82354624560
+#EXTINF:445",Hanibal
+http://www.teledunet.tv:8888/hanibal.m3u8?idu=future_82354624560
+#EXTINF:446",Attassia Tv
+http://www.teledunet.tv:8888/attassia_tv.m3u8?idu=future_82354624560
+#EXTINF:447",Al Moustakilla
+http://www.teledunet.tv:8888/al_moustakilla.m3u8?idu=future_82354624560
+#EXTINF:448",Al janoubiya
+http://www.teledunet.tv:8888/al_janoubiya.m3u8?idu=future_82354624560
+#EXTINF:449",Tounesna
+http://www.teledunet.tv:8888/tounesna.m3u8?idu=future_82354624560
+#EXTINF:450",Zaytoona
+http://www.teledunet.tv:8888/zaytoona.m3u8?idu=future_82354624560
+#EXTINF:451",Tunisia First TV
+http://www.teledunet.tv:8888/tunisia_first_tv.m3u8?idu=future_82354624560
+#EXTINF:452",Zitouna Hidaya
+http://www.teledunet.tv:8888/zitouna_hidaya.m3u8?idu=future_82354624560
+#EXTINF:453",M Tunisia
+http://www.teledunet.tv:8888/m_tunisia.m3u8?idu=future_82354624560
+#EXTINF:454",Al Magharibia
+http://www.teledunet.tv:8888/al_magharibia.m3u8?idu=future_82354624560
 
 
 
