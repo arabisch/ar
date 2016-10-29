@@ -181,7 +181,7 @@ http://www.teledunet.tv:8888/nour_sham.m3u8?idu=future_82354624560
 
 
 
-#EXTINF:39 tvg-logo="" group-title="Other", Lebanon 
+#EXTINF:39 tvg-logo="" group-title="Lebanon", Lebanon 
 #EXTINF:40",ANN
 http://www.teledunet.tv:8888/ann.m3u8?idu=future_82354624560
 #EXTINF:42",Al Ekhbariya Al Soriya
@@ -212,6 +212,10 @@ http://www.teledunet.tv:8888/ldc.m3u8?idu=future_82354624560
 http://www.teledunet.tv:8888/arabica_tv.m3u8?idu=future_82354624560
 #EXTINF:68",OTV Lebanon
 http://www.teledunet.tv:8888/otv_lebanon.m3u8?idu=future_82354624560
+
+
+
+
 #EXTINF:70",Al Sirat Tv
 http://www.teledunet.tv:8888/al_sirat_tv.m3u8?idu=future_82354624560
 #EXTINF:72",Aliman Tv
@@ -249,7 +253,7 @@ http://www.teledunet.tv:8888/cnn.m3u8?idu=future_82354624560
 
 
 
-
+#EXTINF:25 tvg-logo="" group-title="Other2", Other 2
 
 #EXTINF:124",Aghapy TV
 http://www.teledunet.tv:8888/aghapy_tv.m3u8?idu=future_82354624560
