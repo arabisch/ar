@@ -24,38 +24,40 @@ http://www.teledunet.tv:8888/mbc_bollywood.m3u8?idu=future_82354624560
 #EXTINF:8 tvg-logo="https://1.bp.blogspot.com/-8a6HtkOluNM/Vp1MZ2laHSI/AAAAAAAAA8g/zYipclOmdxomgGufLPyL0gP2aSOGaKJqwCKgB/s200/mbc-max.png" group-title="MBC GROUP", ,MBC MAX
 http://www.teledunet.tv:8888/mbc_max.m3u8?idu=future_82354624560
 
+#EXTINF:9 tvg-logo="" group-title="MBC GROUP", ,MBC Masr
+http://www.teledunet.tv:8888/mbc_masr.m3u8?idu=future_82354624560
+
+#EXTINF:10 tvg-logo="" group-title="MBC GROUP", ,MBC Masr 2
+http://www.teledunet.tv:8888/mbc_masr_2.m3u8?idu=future_82354624560
 
 
-
-
-
-#EXTINF:9 tvg-logo="" group-title="NEWS", Aljazeera
+#EXTINF:11 tvg-logo="" group-title="NEWS", Aljazeera
 http://www.teledunet.tv:8888/aljazeera.m3u8?idu=future_82354624560
 
 
 
-#EXTINF:10 tvg-logo="" group-title="NEWS", Alarabiya
+#EXTINF:12 tvg-logo="" group-title="NEWS", Alarabiya
 http://www.teledunet.tv:8888/alarabiya.m3u8?idu=future_82354624560
 
-#EXTINF:11 tvg-logo="" group-title="NEWS", Sky News Ar
+#EXTINF:13 tvg-logo="" group-title="NEWS", Sky News Ar
 http://www.teledunet.tv:8888/sky_news_ar.m3u8?idu=future_82354624560
 
-#EXTINF:12 tvg-logo="" group-title="NEWS", Al Arabia Hadath
+#EXTINF:14 tvg-logo="" group-title="NEWS", Al Arabia Hadath
 http://www.teledunet.tv:8888/al_arabia_hadath.m3u8?idu=future_82354624560
 
-#EXTINF:13 tvg-logo="" group-title="NEWS", France24 Arabic
+#EXTINF:15 tvg-logo="" group-title="NEWS", France24 Arabic
 http://www.teledunet.tv:8888/france24_arabic.m3u8?idu=future_82354624560
 
-#EXTINF:14 tvg-logo="" group-title="NEWS", BBC arabic
+#EXTINF:16 tvg-logo="" group-title="NEWS", BBC arabic
 http://www.teledunet.tv:8888/bbc_arabic.m3u8?idu=future_82354624560
 
-#EXTINF:15 tvg-logo="" group-title="NEWS", Russia Alyaum
+#EXTINF:17 tvg-logo="" group-title="NEWS", Russia Alyaum
 http://www.teledunet.tv:8888/russia_alyaum.m3u8?idu=future_82354624560
 
-#EXTINF:16 tvg-logo="" group-title="NEWS", Al araby
+#EXTINF:18 tvg-logo="" group-title="NEWS", Al araby
 http://www.teledunet.tv:8888/al_araby.m3u8?idu=future_82354624560
 
-#EXTINF:17 tvg-logo="" group-title="NEWS", TRT Arabia
+#EXTINF:19 tvg-logo="" group-title="NEWS", TRT Arabia
 http://www.teledunet.tv:8888/trt_arabia.m3u8?idu=future_82354624560
 
 
@@ -80,9 +82,9 @@ http://www.teledunet.tv:8888/noor_dubai.m3u8?idu=future_82354624560
 http://www.teledunet.tv:8888/dubai_one.m3u8?idu=future_82354624560
 
 
-#EXTINF:18",Aljazeera Doc
+#EXTINF:26",Aljazeera Doc
 http://www.teledunet.tv:8888/aljazeera_doc.m3u8?idu=future_82354624560
-#EXTINF:19",Aljazeera Misr
+#EXTINF:27",Aljazeera Misr
 http://www.teledunet.tv:8888/aljazeera_misr.m3u8?idu=future_82354624560
 
 
@@ -90,7 +92,7 @@ http://www.teledunet.tv:8888/aljazeera_misr.m3u8?idu=future_82354624560
 
 
 
-#EXTINF:25",Quest Arabiya
+#EXTINF:28",Quest Arabiya
 http://www.teledunet.tv:8888/quest_arabiya.m3u8?idu=future_82354624560
 
 #EXTINF:440",Tunisia national 1
