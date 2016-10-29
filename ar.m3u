@@ -24,59 +24,96 @@ http://www.teledunet.tv:8888/mbc_bollywood.m3u8?idu=future_82354624560
 http://www.teledunet.tv:8888/mbc_max.m3u8?idu=future_82354624560
 
 
+#EXTINF:9 tvg-logo="" group-title="NEWS", Aljazeera
+http://www.teledunet.tv:8888/aljazeera.m3u8?idu=future_82354624560
 
 
 
-#EXTINF:9 tvg-logo="" group-title="GOLF GROUP", Nat Geo Ad
+#EXTINF:10 tvg-logo="" group-title="NEWS", Alarabiya
+http://www.teledunet.tv:8888/alarabiya.m3u8?idu=future_82354624560
+
+#EXTINF:11 tvg-logo="" group-title="NEWS", Sky News Ar
+http://www.teledunet.tv:8888/sky_news_ar.m3u8?idu=future_82354624560
+
+#EXTINF:12 tvg-logo="" group-title="NEWS", Al Arabia Hadath
+http://www.teledunet.tv:8888/al_arabia_hadath.m3u8?idu=future_82354624560
+
+#EXTINF:13 tvg-logo="" group-title="NEWS", France24 Arabic
+http://www.teledunet.tv:8888/france24_arabic.m3u8?idu=future_82354624560
+
+#EXTINF:14 tvg-logo="" group-title="NEWS", BBC arabic
+http://www.teledunet.tv:8888/bbc_arabic.m3u8?idu=future_82354624560
+
+#EXTINF:15 tvg-logo="" group-title="NEWS", Russia Alyaum
+http://www.teledunet.tv:8888/russia_alyaum.m3u8?idu=future_82354624560
+
+#EXTINF:16 tvg-logo="" group-title="NEWS", Al araby
+http://www.teledunet.tv:8888/al_araby.m3u8?idu=future_82354624560
+
+#EXTINF:17 tvg-logo="" group-title="NEWS", TRT Arabia
+http://www.teledunet.tv:8888/trt_arabia.m3u8?idu=future_82354624560
+
+
+
+
+#EXTINF:18",Aljazeera Doc
+http://www.teledunet.tv:8888/aljazeera_doc.m3u8?idu=future_82354624560
+#EXTINF:19",Aljazeera Misr
+http://www.teledunet.tv:8888/aljazeera_misr.m3u8?idu=future_82354624560
+
+
+
+
+#EXTINF:20 tvg-logo="" group-title="GOLF GROUP", Nat Geo Ad
 http://www.teledunet.tv:8888/nat_geo_ad.m3u8?idu=future_82354624560
 
-#EXTINF:10 tvg-logo="" group-title="GOLF GROUP", Dubai
+#EXTINF:21 tvg-logo="" group-title="GOLF GROUP", Dubai
 http://www.teledunet.tv:8888/dubai.m3u8?idu=future_82354624560
 
-#EXTINF:11 tvg-logo="" group-title="GOLF GROUP", Sama Dubai
+#EXTINF:22 tvg-logo="" group-title="GOLF GROUP", Sama Dubai
 http://www.teledunet.tv:8888/sama_dubai.m3u8?idu=future_82354624560
 
 
-#EXTINF:12 tvg-logo="" group-title="GOLF GROUP", Noor Dubai
+#EXTINF:23 tvg-logo="" group-title="GOLF GROUP", Noor Dubai
 http://www.teledunet.tv:8888/noor_dubai.m3u8?idu=future_82354624560
 
 
-#EXTINF:13 tvg-logo="" group-title="GOLF GROUP", Dubai One
+#EXTINF:24 tvg-logo="" group-title="GOLF GROUP", Dubai One
 http://www.teledunet.tv:8888/dubai_one.m3u8?idu=future_82354624560
 
-#EXTINF:14",Quest Arabiya
+#EXTINF:25",Quest Arabiya
 http://www.teledunet.tv:8888/quest_arabiya.m3u8?idu=future_82354624560
 
 
-#EXTINF:4",Tunisia national 1
+#EXTINF:440",Tunisia national 1
 http://www.teledunet.tv:8888/tunisia_national_1.m3u8?idu=future_82354624560
-#EXTINF:6",Tunisia national 2
+#EXTINF:442",Tunisia national 2
 http://www.teledunet.tv:8888/tunisia_national_2.m3u8?idu=future_82354624560
-#EXTINF:8",Nessma
+#EXTINF:443",Nessma
 http://www.teledunet.tv:8888/nessma.m3u8?idu=future_82354624560
-#EXTINF:10",Al Tunisia
+#EXTINF:444",Al Tunisia
 http://www.teledunet.tv:8888/al_tunisia.m3u8?idu=future_82354624560
-#EXTINF:12",Hanibal
+#EXTINF:445",Hanibal
 http://www.teledunet.tv:8888/hanibal.m3u8?idu=future_82354624560
-#EXTINF:14",Attassia Tv
+#EXTINF:446",Attassia Tv
 http://www.teledunet.tv:8888/attassia_tv.m3u8?idu=future_82354624560
-#EXTINF:16",Al Moustakilla
+#EXTINF:447",Al Moustakilla
 http://www.teledunet.tv:8888/al_moustakilla.m3u8?idu=future_82354624560
-#EXTINF:18",Al janoubiya
+#EXTINF:448",Al janoubiya
 http://www.teledunet.tv:8888/al_janoubiya.m3u8?idu=future_82354624560
-#EXTINF:20",Tounesna
+#EXTINF:449",Tounesna
 http://www.teledunet.tv:8888/tounesna.m3u8?idu=future_82354624560
-#EXTINF:22",Zaytoona
+#EXTINF:450",Zaytoona
 http://www.teledunet.tv:8888/zaytoona.m3u8?idu=future_82354624560
-#EXTINF:24",Tunisia First TV
+#EXTINF:451",Tunisia First TV
 http://www.teledunet.tv:8888/tunisia_first_tv.m3u8?idu=future_82354624560
-#EXTINF:26",Zitouna Hidaya
+#EXTINF:452",Zitouna Hidaya
 http://www.teledunet.tv:8888/zitouna_hidaya.m3u8?idu=future_82354624560
-#EXTINF:28",M Tunisia
+#EXTINF:453",M Tunisia
 http://www.teledunet.tv:8888/m_tunisia.m3u8?idu=future_82354624560
-#EXTINF:30",Al Magharibia
+#EXTINF:454",Al Magharibia
 http://www.teledunet.tv:8888/al_magharibia.m3u8?idu=future_82354624560
-#EXTINF:32",Syria
+#EXTINF:455",Syria
 http://www.teledunet.tv:8888/syria.m3u8?idu=future_82354624560
 #EXTINF:34",Syria Drama
 http://www.teledunet.tv:8888/syria_drama.m3u8?idu=future_82354624560
@@ -147,39 +184,7 @@ http://www.teledunet.tv:8888/ajyal.m3u8?idu=future_82354624560
 #EXTINF:100",CNN
 http://www.teledunet.tv:8888/cnn.m3u8?idu=future_82354624560
 
-#EXTINF:102 tvg-logo="" group-title="NEWS", Aljazeera
-http://www.teledunet.tv:8888/aljazeera.m3u8?idu=future_82354624560
 
-#EXTINF:104",Aljazeera Doc
-http://www.teledunet.tv:8888/aljazeera_doc.m3u8?idu=future_82354624560
-#EXTINF:106",Aljazeera Misr
-http://www.teledunet.tv:8888/aljazeera_misr.m3u8?idu=future_82354624560
-
-#EXTINF:108 tvg-logo="" group-title="NEWS", Alarabiya
-http://www.teledunet.tv:8888/alarabiya.m3u8?idu=future_82354624560
-
-#EXTINF:110 tvg-logo="" group-title="NEWS", Sky News Ar
-http://www.teledunet.tv:8888/sky_news_ar.m3u8?idu=future_82354624560
-
-#EXTINF:112 tvg-logo="" group-title="NEWS", Al Arabia Hadath
-http://www.teledunet.tv:8888/al_arabia_hadath.m3u8?idu=future_82354624560
-
-#EXTINF:114 tvg-logo="" group-title="NEWS", France24 Arabic
-http://www.teledunet.tv:8888/france24_arabic.m3u8?idu=future_82354624560
-
-#EXTINF:116 tvg-logo="" group-title="NEWS", BBC arabic
-http://www.teledunet.tv:8888/bbc_arabic.m3u8?idu=future_82354624560
-
-#EXTINF:118 tvg-logo="" group-title="NEWS", Russia Alyaum
-http://www.teledunet.tv:8888/russia_alyaum.m3u8?idu=future_82354624560
-
-
-#EXTINF:1120 tvg-logo="" group-title="NEWS", Al araby
-http://www.teledunet.tv:8888/al_araby.m3u8?idu=future_82354624560
-
-
-#EXTINF:122 tvg-logo="" group-title="NEWS", TRT Arabia
-http://www.teledunet.tv:8888/trt_arabia.m3u8?idu=future_82354624560
 
 
 
