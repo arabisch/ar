@@ -2,7 +2,7 @@
 
 
 
-
+#EXTM3U
 
 
 #EXTINF:18",Aljazeera Doc
@@ -521,7 +521,7 @@ http://www.teledunet.tv:8888/osn_star_world.m3u8?idu=future_82354624560
 
 
 
-#EXTM3U
+
 #EXTINF:1 tvg-logo="http://www.mbc.net/ar/mbc1/ogImageBinary/ba71b92a828a5e4372f2a822e454584b8cd54d17/MBC1.jpg" group-title="MBC GROUP", MBC 1		
 http://www.teledunet.tv:8888/mbc_1.m3u8?idu=future_82354624560
 
