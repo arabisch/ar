@@ -45,7 +45,7 @@ http://www.teledunet.tv:8888/aljazeera.m3u8?idu=future_82354624560
 #EXTINF:12 tvg-logo="http://allaboutwindowsphone.com/images/appicons/136106.png" group-title="NEWS", Alarabiya
 http://www.teledunet.tv:8888/alarabiya.m3u8?idu=future_82354624560
 
-#EXTINF:13 tvg-logo="http://4.bp.blogspot.com/-U322VwFjMcI/VKQU-q8_YeI/AAAAAAAAVBw/Q1bk_ArsPL8/s1600/Alarabiya%2Balhadath.jpg" group-title="NEWS", Al Arabia Hadath
+#EXTINF:13 tvg-logo="http://www.alsharq.net.sa/wp-content/uploads/2012/03/89080.jpg" group-title="NEWS", Al Arabia Hadath
 http://www.teledunet.tv:8888/al_arabia_hadath.m3u8?idu=future_82354624560
 
 #EXTINF:14 tvg-logo="" group-title="NEWS", France24 Arabic
