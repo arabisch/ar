@@ -92,13 +92,13 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
 
 
 
-#EXTINF:19 tvg-logo="" group-title="GOLF GROUP", Dubai
+#EXTINF:19 tvg-logo="" group-title="Arabischen Golf", Dubai
 http://www.teledunet.tv:8888/dubai.m3u8?idu=future_82354624560
-#EXTINF:20 tvg-logo="" group-title="GOLF GROUP", Sama Dubai
+#EXTINF:20 tvg-logo="" group-title="Arabischen Golf", Sama Dubai
 http://www.teledunet.tv:8888/sama_dubai.m3u8?idu=future_82354624560
-#EXTINF:21 tvg-logo="" group-title="GOLF GROUP", Noor Dubai
+#EXTINF:21 tvg-logo="" group-title="Arabischen Golf", Noor Dubai
 http://www.teledunet.tv:8888/noor_dubai.m3u8?idu=future_82354624560
-#EXTINF:22 tvg-logo="" group-title="GOLF GROUP", Dubai One
+#EXTINF:22 tvg-logo="" group-title="Arabischen Golf", Dubai One
 http://www.teledunet.tv:8888/dubai_one.m3u8?idu=future_82354624560
 
 
@@ -137,7 +137,7 @@ http://www.teledunet.tv:8888/nat_geo_ad.m3u8?idu=future_82354624560
 
 
 
-#EXTINF:454 tvg-logo="" group-title="Syria", Syria 
+#EXTINF:454 tvg-logo="" group-title="Syrien", Syrien 
 #EXTINF:455",Syria
 http://www.teledunet.tv:8888/syria.m3u8?idu=future_82354624560
 #EXTINF:34",Syria Drama
@@ -159,7 +159,7 @@ http://www.teledunet.tv:8888/nour_sham.m3u8?idu=future_82354624560
 
 
 
-#EXTINF:39 tvg-logo="" group-title="Lebanon", Lebanon 
+#EXTINF:39 tvg-logo="" group-title="Libanon", Libanon 
 #EXTINF:40",ANN
 http://www.teledunet.tv:8888/ann.m3u8?idu=future_82354624560
 #EXTINF:42",Al Ekhbariya Al Soriya
@@ -213,7 +213,7 @@ http://www.teledunet.tv:8888/otv_lebanon.m3u8?idu=future_82354624560
 
 
 
-#EXTINF:69 tvg-logo="" group-title="Children", Children 
+#EXTINF:69 tvg-logo="" group-title="Kinder", Kinder 
 
 
 #EXTINF:74",Noursat
@@ -263,7 +263,7 @@ http://www.teledunet.tv:8888/ajyal.m3u8?idu=future_82354624560
 
 
 
-#EXTINF:143 tvg-logo="" group-title="Music", Music
+#EXTINF:143 tvg-logo="" group-title="Ägypten", Ägypten
 
 #EXTINF:124",Aghapy TV
 http://www.teledunet.tv:8888/aghapy_tv.m3u8?idu=future_82354624560
@@ -393,13 +393,16 @@ http://www.teledunet.tv:8888/bein_3.m3u8?idu=future_82354624560
 http://www.teledunet.tv:8888/bein_4.m3u8?idu=future_82354624560
 #EXTINF:266",Bein 5
 http://www.teledunet.tv:8888/bein_5.m3u8?idu=future_82354624560
+
+
+
+
+
+
+
+
 #EXTINF:268",Al Aoula Maroc
 http://www.teledunet.tv:8888/al_aoula_maroc.m3u8?idu=future_82354624560
-
-
-
- 
-
 #EXTINF:270",2M
 http://www.teledunet.tv:8888/2m.m3u8?idu=future_82354624560
 #EXTINF:272",Alriadia Sport
