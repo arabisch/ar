@@ -12,7 +12,7 @@ http://www.teledunet.tv:8888/mbc_3.m3u8?idu=future_82354624560
 #EXTINF:4 tvg-logo="http://www.mbc.net/ar/mbc4/ogImageBinary/b170bea76848ff60d6f89c6cb2c3485f78d14223/MBC4.jpg" group-title="MBC GROUP", MBC 4
 http://www.teledunet.tv:8888/mbc_4.m3u8?idu=future_82354624560
 
-#EXTINF:4 tvg-logo="http://www.mbc.net/ar/mbc-drama/ogImageBinary/a8f26123482311fadb0cca332fa818289eb5e183/MBC_Drama.jpg" group-title="MBC GROUP", MBC DRAMA
+#EXTINF:5 tvg-logo="http://www.mbc.net/ar/mbc-drama/ogImageBinary/a8f26123482311fadb0cca332fa818289eb5e183/MBC_Drama.jpg" group-title="MBC GROUP", MBC DRAMA
 http://www.teledunet.tv:8888/mbc_drama.m3u8?idu=future_82354624560
 
 #EXTINF:6 tvg-logo="http://temosoft.com/wp-content/uploads/2015/03/action_logo_fb.jpg" group-title="MBC GROUP", MBC Action
@@ -31,10 +31,27 @@ http://www.teledunet.tv:8888/mbc_masr.m3u8?idu=future_82354624560
 http://www.teledunet.tv:8888/mbc_masr_2.m3u8?idu=future_82354624560
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:11 tvg-logo="" group-title="NEWS", Aljazeera
 http://www.teledunet.tv:8888/aljazeera.m3u8?idu=future_82354624560
-
-
 
 #EXTINF:12 tvg-logo="" group-title="NEWS", Alarabiya
 http://www.teledunet.tv:8888/alarabiya.m3u8?idu=future_82354624560
@@ -59,6 +76,20 @@ http://www.teledunet.tv:8888/al_araby.m3u8?idu=future_82354624560
 
 #EXTINF:19 tvg-logo="" group-title="NEWS", TRT Arabia
 http://www.teledunet.tv:8888/trt_arabia.m3u8?idu=future_82354624560
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
