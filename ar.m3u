@@ -126,13 +126,15 @@ http://www.teledunet.tv:8888/nat_geo_ad.m3u8?idu=future_82354624560
 
 
 
+
+
+
+
+
+
+#EXTINF:20 tvg-logo="" group-title="Other", National Geographic
 #EXTINF:27",Aljazeera Misr
 http://www.teledunet.tv:8888/aljazeera_misr.m3u8?idu=future_82354624560
-
-
-
-
-
 
 #EXTINF:28",Quest Arabiya
 http://www.teledunet.tv:8888/quest_arabiya.m3u8?idu=future_82354624560
