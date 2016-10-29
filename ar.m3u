@@ -27,27 +27,8 @@ http://www.teledunet.tv:8888/mbc_max.m3u8?idu=future_82354624560
 #EXTINF:9 tvg-logo="http://www.mbc.net/ar/mbc-maser/ogImageBinary/908bca5f8f772d176e66a269e951be9e26424f63/MBC_Masr.jpg" group-title="MBC GROUP", ,MBC Masr
 http://www.teledunet.tv:8888/mbc_masr.m3u8?idu=future_82354624560
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:10 tvg-logo="http://www.mbc.net/ar/mbc-masr-2/ogImageBinary/7b1c16c942fd2ef61a68e74ab68bf13c9920abd3/MBC_Masr2.jpg" group-title="MBC GROUP", ,MBC Masr 2
+http://www.teledunet.tv:8888/mbc_masr_2.m3u8?idu=future_82354624560
 
 #EXTINF:11 tvg-logo="" group-title="NEWS", Aljazeera
 http://www.teledunet.tv:8888/aljazeera.m3u8?idu=future_82354624560
@@ -75,24 +56,6 @@ http://www.teledunet.tv:8888/al_araby.m3u8?idu=future_82354624560
 
 #EXTINF:19 tvg-logo="" group-title="NEWS", TRT Arabia
 http://www.teledunet.tv:8888/trt_arabia.m3u8?idu=future_82354624560
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 #EXTINF:20 tvg-logo="" group-title="GOLF GROUP", Nat Geo Ad
 http://www.teledunet.tv:8888/nat_geo_ad.m3u8?idu=future_82354624560
