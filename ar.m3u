@@ -150,6 +150,20 @@ http://www.teledunet.tv:8888/nat_geo_ad.m3u8?idu=future_82354624560
 
 
 #EXTINF:19 tvg-logo="" group-title="Islamic Golf", Islamic
+#EXTINF:-1,Iqraa
+http://5.9.118.115:8000/live/ashraf/ashraf/244.ts
+#EXTINF:-1,ALNAS
+http://5.9.118.115:8000/live/ashraf/ashraf/1152.ts
+#EXTINF:-1,Alresala
+http://5.9.118.115:8000/live/ashraf/ashraf/1151.ts
+#EXTINF:-1,SAFA.TV
+http://5.9.118.115:8000/live/ashraf/ashraf/1961.ts
+#EXTINF:-1,ISLAM:Al-Majd3
+http://5.9.118.115:8000/live/ashraf/ashraf/586.ts
+#EXTINF:-1,QRN:Ithraa
+http://5.9.118.115:8000/live/ashraf/ashraf/1814.ts
+#EXTINF:-1,QURAN-TV
+http://5.9.118.115:8000/live/ashraf/ashraf/607.ts
 #EXTINF:-1,QURAN.TV
 http://5.9.118.115:8000/live/ashraf/ashraf/1972.ts
 #EXTINF:-1,TIME-QURAN
