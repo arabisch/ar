@@ -146,31 +146,47 @@ http://www.teledunet.tv:8888/cartoon_network.m3u8?idu=future_82354624560
 http://www.teledunet.tv:8888/ajyal.m3u8?idu=future_82354624560
 #EXTINF:100",CNN
 http://www.teledunet.tv:8888/cnn.m3u8?idu=future_82354624560
-#EXTINF:102",Aljazeera
+
+#EXTINF:102 tvg-logo="" group-title="NEWS", Aljazeera
 http://www.teledunet.tv:8888/aljazeera.m3u8?idu=future_82354624560
+
 #EXTINF:104",Aljazeera Doc
 http://www.teledunet.tv:8888/aljazeera_doc.m3u8?idu=future_82354624560
 #EXTINF:106",Aljazeera Misr
 http://www.teledunet.tv:8888/aljazeera_misr.m3u8?idu=future_82354624560
-#EXTINF:108",Alarabiya
+
+#EXTINF:108 tvg-logo="" group-title="NEWS", Alarabiya
 http://www.teledunet.tv:8888/alarabiya.m3u8?idu=future_82354624560
-#EXTINF:110",Sky News Ar
+
+#EXTINF:110 tvg-logo="" group-title="NEWS", Sky News Ar
 http://www.teledunet.tv:8888/sky_news_ar.m3u8?idu=future_82354624560
-#EXTINF:112",Al Arabia Hadath
+
+#EXTINF:112 tvg-logo="" group-title="NEWS", Al Arabia Hadath
 http://www.teledunet.tv:8888/al_arabia_hadath.m3u8?idu=future_82354624560
-#EXTINF:114",France24 Arabic
+
+#EXTINF:114 tvg-logo="" group-title="NEWS", France24 Arabic
 http://www.teledunet.tv:8888/france24_arabic.m3u8?idu=future_82354624560
-#EXTINF:116",BBC arabic
+
+#EXTINF:116 tvg-logo="" group-title="NEWS", BBC arabic
 http://www.teledunet.tv:8888/bbc_arabic.m3u8?idu=future_82354624560
-#EXTINF:118",Russia Alyaum
+
+#EXTINF:118 tvg-logo="" group-title="NEWS", Russia Alyaum
 http://www.teledunet.tv:8888/russia_alyaum.m3u8?idu=future_82354624560
-#EXTINF:120",Al araby
+
+
+#EXTINF:1120 tvg-logo="" group-title="NEWS", Al araby
 http://www.teledunet.tv:8888/al_araby.m3u8?idu=future_82354624560
-#EXTINF:122",TRT Arabia
+
+
+#EXTINF:122 tvg-logo="" group-title="NEWS", TRT Arabia
 http://www.teledunet.tv:8888/trt_arabia.m3u8?idu=future_82354624560
+
+
+
+
+
 #EXTINF:124",Aghapy TV
 http://www.teledunet.tv:8888/aghapy_tv.m3u8?idu=future_82354624560
-
 #EXTINF:146",Wanasah
 http://www.teledunet.tv:8888/wanasah.m3u8?idu=future_82354624560
 #EXTINF:148",Art Aflam 1
