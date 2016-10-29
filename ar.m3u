@@ -1,8 +1,83 @@
-
-
-
-
 #EXTM3U
+
+#EXTINF:1 tvg-logo="http://www.mbc.net/ar/mbc1/ogImageBinary/ba71b92a828a5e4372f2a822e454584b8cd54d17/MBC1.jpg" group-title="MBC GROUP", MBC 1		
+http://www.teledunet.tv:8888/mbc_1.m3u8?idu=future_82354624560
+
+#EXTINF:2 tvg-logo="http://4.bp.blogspot.com/-OmFLWDokObI/VohZRCc9ZRI/AAAAAAAAA0A/d2PTa3dYkCY/s1600/cb3bfe91-cf6e-473b-9ac3-6ac701be8483.png" group-title="MBC GROUP", MBC 2
+http://www.teledunet.tv:8888/mbc_2.m3u8?idu=future_82354624560
+
+#EXTINF:3 tvg-logo="http://www.6rrb.net/tv/files/image/mbc3.jpg" group-title="MBC GROUP", MBC 3
+http://www.teledunet.tv:8888/mbc_3.m3u8?idu=future_82354624560
+
+#EXTINF:4 tvg-logo="http://www.mbc.net/ar/mbc4/ogImageBinary/b170bea76848ff60d6f89c6cb2c3485f78d14223/MBC4.jpg" group-title="MBC GROUP", MBC 4
+http://www.teledunet.tv:8888/mbc_4.m3u8?idu=future_82354624560
+
+#EXTINF:4 tvg-logo="http://www.mbc.net/ar/mbc-drama/ogImageBinary/a8f26123482311fadb0cca332fa818289eb5e183/MBC_Drama.jpg" group-title="MBC GROUP", MBC DRAMA
+http://www.teledunet.tv:8888/mbc_drama.m3u8?idu=future_82354624560
+
+#EXTINF:6 tvg-logo="http://temosoft.com/wp-content/uploads/2015/03/action_logo_fb.jpg" group-title="MBC GROUP", MBC Action
+http://www.teledunet.tv:8888/mbc_action.m3u8?idu=future_82354624560
+
+#EXTINF:7 tvg-logo="http://cdn.marketplaceimages.windowsphone.com/v8/images/92089e9e-f4ee-47bc-90ab-e5de9bdd9bcf?imageType=ws_icon_large" group-title="MBC GROUP", MBC Bollywood
+http://www.teledunet.tv:8888/mbc_bollywood.m3u8?idu=future_82354624560
+
+#EXTINF:8 tvg-logo="https://1.bp.blogspot.com/-8a6HtkOluNM/Vp1MZ2laHSI/AAAAAAAAA8g/zYipclOmdxomgGufLPyL0gP2aSOGaKJqwCKgB/s200/mbc-max.png" group-title="MBC GROUP", ,MBC MAX
+http://www.teledunet.tv:8888/mbc_max.m3u8?idu=future_82354624560
+
+
+
+
+
+
+#EXTINF:9 tvg-logo="" group-title="NEWS", Aljazeera
+http://www.teledunet.tv:8888/aljazeera.m3u8?idu=future_82354624560
+
+
+
+#EXTINF:10 tvg-logo="" group-title="NEWS", Alarabiya
+http://www.teledunet.tv:8888/alarabiya.m3u8?idu=future_82354624560
+
+#EXTINF:11 tvg-logo="" group-title="NEWS", Sky News Ar
+http://www.teledunet.tv:8888/sky_news_ar.m3u8?idu=future_82354624560
+
+#EXTINF:12 tvg-logo="" group-title="NEWS", Al Arabia Hadath
+http://www.teledunet.tv:8888/al_arabia_hadath.m3u8?idu=future_82354624560
+
+#EXTINF:13 tvg-logo="" group-title="NEWS", France24 Arabic
+http://www.teledunet.tv:8888/france24_arabic.m3u8?idu=future_82354624560
+
+#EXTINF:14 tvg-logo="" group-title="NEWS", BBC arabic
+http://www.teledunet.tv:8888/bbc_arabic.m3u8?idu=future_82354624560
+
+#EXTINF:15 tvg-logo="" group-title="NEWS", Russia Alyaum
+http://www.teledunet.tv:8888/russia_alyaum.m3u8?idu=future_82354624560
+
+#EXTINF:16 tvg-logo="" group-title="NEWS", Al araby
+http://www.teledunet.tv:8888/al_araby.m3u8?idu=future_82354624560
+
+#EXTINF:17 tvg-logo="" group-title="NEWS", TRT Arabia
+http://www.teledunet.tv:8888/trt_arabia.m3u8?idu=future_82354624560
+
+
+
+
+
+#EXTINF:20 tvg-logo="" group-title="GOLF GROUP", Nat Geo Ad
+http://www.teledunet.tv:8888/nat_geo_ad.m3u8?idu=future_82354624560
+
+#EXTINF:21 tvg-logo="" group-title="GOLF GROUP", Dubai
+http://www.teledunet.tv:8888/dubai.m3u8?idu=future_82354624560
+
+#EXTINF:22 tvg-logo="" group-title="GOLF GROUP", Sama Dubai
+http://www.teledunet.tv:8888/sama_dubai.m3u8?idu=future_82354624560
+
+
+#EXTINF:23 tvg-logo="" group-title="GOLF GROUP", Noor Dubai
+http://www.teledunet.tv:8888/noor_dubai.m3u8?idu=future_82354624560
+
+
+#EXTINF:24 tvg-logo="" group-title="GOLF GROUP", Dubai One
+http://www.teledunet.tv:8888/dubai_one.m3u8?idu=future_82354624560
 
 
 #EXTINF:18",Aljazeera Doc
@@ -522,81 +597,3 @@ http://www.teledunet.tv:8888/osn_star_world.m3u8?idu=future_82354624560
 
 
 
-#EXTINF:1 tvg-logo="http://www.mbc.net/ar/mbc1/ogImageBinary/ba71b92a828a5e4372f2a822e454584b8cd54d17/MBC1.jpg" group-title="MBC GROUP", MBC 1		
-http://www.teledunet.tv:8888/mbc_1.m3u8?idu=future_82354624560
-
-#EXTINF:2 tvg-logo="http://4.bp.blogspot.com/-OmFLWDokObI/VohZRCc9ZRI/AAAAAAAAA0A/d2PTa3dYkCY/s1600/cb3bfe91-cf6e-473b-9ac3-6ac701be8483.png" group-title="MBC GROUP", MBC 2
-http://www.teledunet.tv:8888/mbc_2.m3u8?idu=future_82354624560
-
-#EXTINF:3 tvg-logo="http://www.6rrb.net/tv/files/image/mbc3.jpg" group-title="MBC GROUP", MBC 3
-http://www.teledunet.tv:8888/mbc_3.m3u8?idu=future_82354624560
-
-#EXTINF:4 tvg-logo="http://www.mbc.net/ar/mbc4/ogImageBinary/b170bea76848ff60d6f89c6cb2c3485f78d14223/MBC4.jpg" group-title="MBC GROUP", MBC 4
-http://www.teledunet.tv:8888/mbc_4.m3u8?idu=future_82354624560
-
-#EXTINF:4 tvg-logo="http://www.mbc.net/ar/mbc-drama/ogImageBinary/a8f26123482311fadb0cca332fa818289eb5e183/MBC_Drama.jpg" group-title="MBC GROUP", MBC DRAMA
-http://www.teledunet.tv:8888/mbc_drama.m3u8?idu=future_82354624560
-
-#EXTINF:6 tvg-logo="http://temosoft.com/wp-content/uploads/2015/03/action_logo_fb.jpg" group-title="MBC GROUP", MBC Action
-http://www.teledunet.tv:8888/mbc_action.m3u8?idu=future_82354624560
-
-#EXTINF:7 tvg-logo="http://cdn.marketplaceimages.windowsphone.com/v8/images/92089e9e-f4ee-47bc-90ab-e5de9bdd9bcf?imageType=ws_icon_large" group-title="MBC GROUP", MBC Bollywood
-http://www.teledunet.tv:8888/mbc_bollywood.m3u8?idu=future_82354624560
-
-#EXTINF:8 tvg-logo="https://1.bp.blogspot.com/-8a6HtkOluNM/Vp1MZ2laHSI/AAAAAAAAA8g/zYipclOmdxomgGufLPyL0gP2aSOGaKJqwCKgB/s200/mbc-max.png" group-title="MBC GROUP", ,MBC MAX
-http://www.teledunet.tv:8888/mbc_max.m3u8?idu=future_82354624560
-
-
-
-
-
-
-#EXTINF:9 tvg-logo="" group-title="NEWS", Aljazeera
-http://www.teledunet.tv:8888/aljazeera.m3u8?idu=future_82354624560
-
-
-
-#EXTINF:10 tvg-logo="" group-title="NEWS", Alarabiya
-http://www.teledunet.tv:8888/alarabiya.m3u8?idu=future_82354624560
-
-#EXTINF:11 tvg-logo="" group-title="NEWS", Sky News Ar
-http://www.teledunet.tv:8888/sky_news_ar.m3u8?idu=future_82354624560
-
-#EXTINF:12 tvg-logo="" group-title="NEWS", Al Arabia Hadath
-http://www.teledunet.tv:8888/al_arabia_hadath.m3u8?idu=future_82354624560
-
-#EXTINF:13 tvg-logo="" group-title="NEWS", France24 Arabic
-http://www.teledunet.tv:8888/france24_arabic.m3u8?idu=future_82354624560
-
-#EXTINF:14 tvg-logo="" group-title="NEWS", BBC arabic
-http://www.teledunet.tv:8888/bbc_arabic.m3u8?idu=future_82354624560
-
-#EXTINF:15 tvg-logo="" group-title="NEWS", Russia Alyaum
-http://www.teledunet.tv:8888/russia_alyaum.m3u8?idu=future_82354624560
-
-#EXTINF:16 tvg-logo="" group-title="NEWS", Al araby
-http://www.teledunet.tv:8888/al_araby.m3u8?idu=future_82354624560
-
-#EXTINF:17 tvg-logo="" group-title="NEWS", TRT Arabia
-http://www.teledunet.tv:8888/trt_arabia.m3u8?idu=future_82354624560
-
-
-
-
-
-#EXTINF:20 tvg-logo="" group-title="GOLF GROUP", Nat Geo Ad
-http://www.teledunet.tv:8888/nat_geo_ad.m3u8?idu=future_82354624560
-
-#EXTINF:21 tvg-logo="" group-title="GOLF GROUP", Dubai
-http://www.teledunet.tv:8888/dubai.m3u8?idu=future_82354624560
-
-#EXTINF:22 tvg-logo="" group-title="GOLF GROUP", Sama Dubai
-http://www.teledunet.tv:8888/sama_dubai.m3u8?idu=future_82354624560
-
-
-#EXTINF:23 tvg-logo="" group-title="GOLF GROUP", Noor Dubai
-http://www.teledunet.tv:8888/noor_dubai.m3u8?idu=future_82354624560
-
-
-#EXTINF:24 tvg-logo="" group-title="GOLF GROUP", Dubai One
-http://www.teledunet.tv:8888/dubai_one.m3u8?idu=future_82354624560
