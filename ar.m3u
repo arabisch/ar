@@ -8,10 +8,10 @@ http://www.teledunet.tv:8888/mbc_2.m3u8?idu=future_82354624560
 #EXTINF:3 tvg-logo="http://www.6rrb.net/tv/files/image/mbc3.jpg" group-title="MBC GROUP", MBC 3
 http://www.teledunet.tv:8888/mbc_3.m3u8?idu=future_82354624560
 
-#EXTINF:4 tvg-logo="http://bit.ly/2dXCizj" group-title="MBC GROUP", MBC 4
+#EXTINF:4 tvg-logo="http://bit.ly/2eY3xMC" group-title="MBC GROUP", MBC 4
 http://www.teledunet.tv:8888/mbc_4.m3u8?idu=future_82354624560
 
-#EXTINF:5",MBC Drama
+#EXTINF:4 tvg-logo="http://bit.ly/2eP9v1P" group-title="MBC GROUP", MBC DRAMA
 http://www.teledunet.tv:8888/mbc_drama.m3u8?idu=future_82354624560
 
 #EXTINF:6 tvg-logo="http://bit.ly/2eY3xMC" group-title="MBC GROUP", MBC Action
