@@ -51,7 +51,7 @@ http://www.teledunet.tv:8888/al_arabia_hadath.m3u8?idu=future_82354624560
 #EXTINF:14 tvg-logo="" group-title="NEWS", France24 Arabic
 http://www.teledunet.tv:8888/france24_arabic.m3u8?idu=future_82354624560
 
-#EXTINF:15 tvg-logo="http://cdn8.staztic.com/app/a/854/854118/bbc-arabic-401854-l-140x140.png" group-title="NEWS", BBC arabic
+#EXTINF:15 tvg-logo="" group-title="NEWS", BBC arabic
 http://www.teledunet.tv:8888/bbc_arabic.m3u8?idu=future_82354624560
 
 #EXTINF:16 tvg-logo="https://pbs.twimg.com/profile_images/3547428425/7c11e1d00658cfeb994e85143ea03be3_400x400.jpeg" group-title="NEWS", Russia Alyaum
