@@ -27,24 +27,25 @@ http://www.teledunet.tv:8888/mbc_max.m3u8?idu=future_82354624560
 
 
 
-
-#EXTINF:11",Nat Geo Ad
+#EXTINF:9 tvg-logo="" group-title="GOLF GROUP", Nat Geo Ad
 http://www.teledunet.tv:8888/nat_geo_ad.m3u8?idu=future_82354624560
-#EXTINF:12",Dubai
+
+#EXTINF:10 tvg-logo="" group-title="GOLF GROUP", Dubai
 http://www.teledunet.tv:8888/dubai.m3u8?idu=future_82354624560
-#EXTINF:13",Sama Dubai
+
+#EXTINF:11 tvg-logo="" group-title="GOLF GROUP", Sama Dubai
 http://www.teledunet.tv:8888/sama_dubai.m3u8?idu=future_82354624560
-#EXTINF:14",Dubai One
-http://www.teledunet.tv:8888/dubai_one.m3u8?idu=future_82354624560
-#EXTINF:15",Noor Dubai
+
+
+#EXTINF:12 tvg-logo="" group-title="GOLF GROUP", Noor Dubai
 http://www.teledunet.tv:8888/noor_dubai.m3u8?idu=future_82354624560
-#EXTINF:16",Quest Arabiya
+
+
+#EXTINF:13 tvg-logo="" group-title="GOLF GROUP", Dubai One
+http://www.teledunet.tv:8888/dubai_one.m3u8?idu=future_82354624560
+
+#EXTINF:14",Quest Arabiya
 http://www.teledunet.tv:8888/quest_arabiya.m3u8?idu=future_82354624560
-
-
-
-#EXTINF:358",Orient
-http://www.teledunet.tv:8888/orient.m3u8?idu=future_82354624560
 
 
 #EXTINF:4",Tunisia national 1
@@ -370,7 +371,8 @@ http://www.teledunet.tv:8888/abu_dhabi_sports_1.m3u8?idu=future_82354624560
 http://www.teledunet.tv:8888/abu_dhabi_sports_2.m3u8?idu=future_82354624560
 #EXTINF:344",Dubai Sport 1
 http://www.teledunet.tv:8888/dubai_sport_1.m3u8?idu=future_82354624560
-
+#EXTINF:358",Orient
+http://www.teledunet.tv:8888/orient.m3u8?idu=future_82354624560
 #EXTINF:360",Safa Tv
 http://www.teledunet.tv:8888/safa_tv.m3u8?idu=future_82354624560
 #EXTINF:362",Sharqia News
@@ -397,6 +399,7 @@ http://www.teledunet.tv:8888/iraqia_sport.m3u8?idu=future_82354624560
 http://www.teledunet.tv:8888/al_mawsleya.m3u8?idu=future_82354624560
 #EXTINF:384",Dijlah Tv
 http://www.teledunet.tv:8888/dijlah_tv.m3u8?idu=future_82354624560
+
 #EXTINF:386",Al Anbar
 http://www.teledunet.tv:8888/al_anbar.m3u8?idu=future_82354624560
 #EXTINF:388",Karbala Tv
