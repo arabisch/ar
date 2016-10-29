@@ -111,9 +111,9 @@ http://www.teledunet.tv:8888/dubai_one.m3u8?idu=future_82354624560
 
 
 
-#EXTINF:23 tvg-logo="http://ar4download.com/wp-content/uploads/2013/09/mzl.ftgzgojv.png" group-title="Doc", Aljazeera Doc
+#EXTINF:23 tvg-logo="http://ar4download.com/wp-content/uploads/2013/09/mzl.ftgzgojv.png" group-title="Documentary", Aljazeera Doc
 http://www.teledunet.tv:8888/aljazeera_doc.m3u8?idu=future_82354624560
-#EXTINF:24 tvg-logo="" group-title="Doc", Nat Geo AD
+#EXTINF:24 tvg-logo="" group-title="Documentary", Nat Geo AD
 http://www.teledunet.tv:8888/nat_geo_ad.m3u8?idu=future_82354624560
 
 
@@ -359,6 +359,21 @@ http://www.teledunet.tv:8888/panorama_drama.m3u8?idu=future_82354624560
 http://www.teledunet.tv:8888/panorama_drama_2.m3u8?idu=future_82354624560
 #EXTINF:236",Nile Tv
 http://www.teledunet.tv:8888/nile_tv.m3u8?idu=future_82354624560
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
