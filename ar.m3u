@@ -30,32 +30,46 @@ http://www.teledunet.tv:8888/mbc_masr.m3u8?idu=future_82354624560
 #EXTINF:10 tvg-logo="http://www.mbc.net/ar/mbc-masr-2/ogImageBinary/7b1c16c942fd2ef61a68e74ab68bf13c9920abd3/MBC_Masr2.jpg" group-title="MBC GROUP", ,MBC Masr 2
 http://www.teledunet.tv:8888/mbc_masr_2.m3u8?idu=future_82354624560
 
+
+
+
+
+
+
+
+
+
 #EXTINF:11 tvg-logo="" group-title="NEWS", Aljazeera
 http://www.teledunet.tv:8888/aljazeera.m3u8?idu=future_82354624560
 
 #EXTINF:12 tvg-logo="" group-title="NEWS", Alarabiya
 http://www.teledunet.tv:8888/alarabiya.m3u8?idu=future_82354624560
 
-#EXTINF:13 tvg-logo="" group-title="NEWS", Sky News Ar
-http://www.teledunet.tv:8888/sky_news_ar.m3u8?idu=future_82354624560
-
-#EXTINF:14 tvg-logo="" group-title="NEWS", Al Arabia Hadath
+#EXTINF:13 tvg-logo="" group-title="NEWS", Al Arabia Hadath
 http://www.teledunet.tv:8888/al_arabia_hadath.m3u8?idu=future_82354624560
 
-#EXTINF:15 tvg-logo="" group-title="NEWS", France24 Arabic
+#EXTINF:14 tvg-logo="" group-title="NEWS", France24 Arabic
 http://www.teledunet.tv:8888/france24_arabic.m3u8?idu=future_82354624560
 
-#EXTINF:16 tvg-logo="" group-title="NEWS", BBC arabic
+#EXTINF:15 tvg-logo="" group-title="NEWS", BBC arabic
 http://www.teledunet.tv:8888/bbc_arabic.m3u8?idu=future_82354624560
 
-#EXTINF:17 tvg-logo="" group-title="NEWS", Russia Alyaum
+#EXTINF:16 tvg-logo="" group-title="NEWS", Russia Alyaum
 http://www.teledunet.tv:8888/russia_alyaum.m3u8?idu=future_82354624560
 
-#EXTINF:18 tvg-logo="" group-title="NEWS", Al araby
+#EXTINF:17 tvg-logo="" group-title="NEWS", Al araby
 http://www.teledunet.tv:8888/al_araby.m3u8?idu=future_82354624560
 
-#EXTINF:19 tvg-logo="" group-title="NEWS", TRT Arabia
+#EXTINF:18 tvg-logo="" group-title="NEWS", TRT Arabia
 http://www.teledunet.tv:8888/trt_arabia.m3u8?idu=future_82354624560
+
+#EXTINF:19 tvg-logo="" group-title="NEWS", Sky News Ar
+http://www.teledunet.tv:8888/sky_news_ar.m3u8?idu=future_82354624560
+
+
+
+
+
 
 #EXTINF:20 tvg-logo="" group-title="GOLF GROUP", Nat Geo Ad
 http://www.teledunet.tv:8888/nat_geo_ad.m3u8?idu=future_82354624560
