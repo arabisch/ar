@@ -27,8 +27,7 @@ http://www.teledunet.tv:8888/mbc_max.m3u8?idu=future_82354624560
 #EXTINF:9 tvg-logo="http://www.mbc.net/ar/mbc-maser/ogImageBinary/908bca5f8f772d176e66a269e951be9e26424f63/MBC_Masr.jpg" group-title="MBC GROUP", ,MBC Masr
 http://www.teledunet.tv:8888/mbc_masr.m3u8?idu=future_82354624560
 
-#EXTINF:10 tvg-logo="http://www.mbc.net/ar/mbc-masr-2/ogImageBinary/7b1c16c942fd2ef61a68e74ab68bf13c9920abd3/MBC_Masr2.jpg" group-title="MBC GROUP", ,MBC Masr 2
-http://www.teledunet.tv:8888/mbc_masr_2.m3u8?idu=future_82354624560
+
 
 
 
