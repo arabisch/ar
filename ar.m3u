@@ -60,11 +60,9 @@ http://www.teledunet.tv:8888/russia_alyaum.m3u8?idu=future_82354624560
 #EXTINF:17 tvg-logo="http://4.bp.blogspot.com/-dq99m-ag8vk/VOrM2RZRH9I/AAAAAAAADG4/VOs-JC5mp-c/s1600/10940500_1540296712922146_1112820597249520337_n.jpg" group-title="NEWS", Al Araby Aljadeed
 http://www.teledunet.tv:8888/al_araby.m3u8?idu=future_82354624560
 
-#EXTINF:18 tvg-logo="" group-title="NEWS", TRT Arabia
-http://www.teledunet.tv:8888/trt_arabia.m3u8?idu=future_82354624560
+#EXTINF:18 tvg-logo="http://nilesat-arabic-iptv.abuouday.com/channels/trt.jpg" group-title="NEWS", TRT Arabia
+http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
 
-#EXTINF:19 tvg-logo="" group-title="NEWS", Sky News Ar
-http://www.teledunet.tv:8888/sky_news_ar.m3u8?idu=future_82354624560
 
 
 
