@@ -11,22 +11,29 @@ http://www.teledunet.tv:8888/mbc_3.m3u8?idu=future_82354624560
 #EXTINF:4 tvg-logo="http://bit.ly/2dXCizj" group-title="MBC GROUP", MBC 4
 http://www.teledunet.tv:8888/mbc_4.m3u8?idu=future_82354624560
 
+#EXTINF:5",MBC Drama
+http://www.teledunet.tv:8888/mbc_drama.m3u8?idu=future_82354624560
 
-#EXTINF:4 tvg-logo="http://bit.ly/2eY3xMC" group-title="MBC GROUP", MBC Action
+#EXTINF:6 tvg-logo="http://bit.ly/2eY3xMC" group-title="MBC GROUP", MBC Action
 http://www.teledunet.tv:8888/mbc_action.m3u8?idu=future_82354624560
 
-#EXTINF:136",MBC Bollywood
+#EXTINF:7",MBC Bollywood
 http://www.teledunet.tv:8888/mbc_bollywood.m3u8?idu=future_82354624560
-#EXTINF:138",MBC Drama
-http://www.teledunet.tv:8888/mbc_drama.m3u8?idu=future_82354624560
-#EXTINF:140",MBC Masr
+
+#EXTINF:8",MBC Masr
 http://www.teledunet.tv:8888/mbc_masr.m3u8?idu=future_82354624560
-#EXTINF:142",MBC Masr 2
+
+#EXTINF:9",MBC Masr 2
 http://www.teledunet.tv:8888/mbc_masr_2.m3u8?idu=future_82354624560
-#EXTINF:144",MBC Max
+
+#EXTINF:10",MBC Max
 http://www.teledunet.tv:8888/mbc_max.m3u8?idu=future_82354624560
-#EXTINF:2",Teledunet Tv
-http://www.teledunet.tv:8888/teledunet_tv.m3u8?idu=future_82354624560
+
+
+
+
+
+
 #EXTINF:4",Tunisia national 1
 http://www.teledunet.tv:8888/tunisia_national_1.m3u8?idu=future_82354624560
 #EXTINF:6",Tunisia national 2
