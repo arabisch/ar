@@ -181,6 +181,7 @@ http://www.teledunet.tv:8888/nour_sham.m3u8?idu=future_82354624560
 
 
 
+
 #EXTINF:39 tvg-logo="" group-title="Lebanon", Lebanon 
 #EXTINF:40",ANN
 http://www.teledunet.tv:8888/ann.m3u8?idu=future_82354624560
@@ -215,6 +216,27 @@ http://www.teledunet.tv:8888/otv_lebanon.m3u8?idu=future_82354624560
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:69 tvg-logo="" group-title="Islamic", Islamic 
 
 #EXTINF:70",Al Sirat Tv
 http://www.teledunet.tv:8888/al_sirat_tv.m3u8?idu=future_82354624560
@@ -253,7 +275,22 @@ http://www.teledunet.tv:8888/cnn.m3u8?idu=future_82354624560
 
 
 
-#EXTINF:25 tvg-logo="" group-title="Other2", Other 2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:143 tvg-logo="" group-title="Music", Music
 
 #EXTINF:124",Aghapy TV
 http://www.teledunet.tv:8888/aghapy_tv.m3u8?idu=future_82354624560
@@ -352,7 +389,7 @@ http://www.teledunet.tv:8888/nile_tv.m3u8?idu=future_82354624560
 
 
 
-
+#EXTINF:237 tvg-logo="" group-title="Sport", Sport 
 #EXTINF:238",Bein Sport 1
 http://www.teledunet.tv:8888/bein_sport_1.m3u8?idu=future_82354624560
 #EXTINF:240",Bein Sport 2
