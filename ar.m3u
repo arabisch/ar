@@ -92,18 +92,18 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
 
 
 
-#EXTINF:21 tvg-logo="" group-title="GOLF GROUP", Dubai
+#EXTINF:19 tvg-logo="" group-title="GOLF GROUP", Dubai
 http://www.teledunet.tv:8888/dubai.m3u8?idu=future_82354624560
 
-#EXTINF:22 tvg-logo="" group-title="GOLF GROUP", Sama Dubai
+#EXTINF:20 tvg-logo="" group-title="GOLF GROUP", Sama Dubai
 http://www.teledunet.tv:8888/sama_dubai.m3u8?idu=future_82354624560
 
 
-#EXTINF:23 tvg-logo="" group-title="GOLF GROUP", Noor Dubai
+#EXTINF:21 tvg-logo="" group-title="GOLF GROUP", Noor Dubai
 http://www.teledunet.tv:8888/noor_dubai.m3u8?idu=future_82354624560
 
 
-#EXTINF:24 tvg-logo="" group-title="GOLF GROUP", Dubai One
+#EXTINF:22 tvg-logo="" group-title="GOLF GROUP", Dubai One
 http://www.teledunet.tv:8888/dubai_one.m3u8?idu=future_82354624560
 
 
@@ -117,10 +117,10 @@ http://www.teledunet.tv:8888/dubai_one.m3u8?idu=future_82354624560
 
 
 
-#EXTINF:25 tvg-logo="http://ar4download.com/wp-content/uploads/2013/09/mzl.ftgzgojv.png" group-title="Doc", Aljazeera Doc
+#EXTINF:23 tvg-logo="http://ar4download.com/wp-content/uploads/2013/09/mzl.ftgzgojv.png" group-title="Doc", Aljazeera Doc
 http://www.teledunet.tv:8888/aljazeera_doc.m3u8?idu=future_82354624560
 
-#EXTINF:20 tvg-logo="" group-title="Doc", National Geographic
+#EXTINF:24 tvg-logo="" group-title="Doc", National Geographic
 http://www.teledunet.tv:8888/nat_geo_ad.m3u8?idu=future_82354624560
 
 
@@ -132,11 +132,11 @@ http://www.teledunet.tv:8888/nat_geo_ad.m3u8?idu=future_82354624560
 
 
 
-#EXTINF:20 tvg-logo="" group-title="Other", National Geographic
-#EXTINF:27",Aljazeera Misr
+#EXTINF:25 tvg-logo="" group-title="Other", National Geographic
+#EXTINF:26",Aljazeera Misr
 http://www.teledunet.tv:8888/aljazeera_misr.m3u8?idu=future_82354624560
 
-#EXTINF:28",Quest Arabiya
+#EXTINF:27",Quest Arabiya
 http://www.teledunet.tv:8888/quest_arabiya.m3u8?idu=future_82354624560
 
 #EXTINF:440",Tunisia national 1
