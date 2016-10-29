@@ -91,10 +91,7 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
 
 
 
-#EXTINF:23 tvg-logo="http://ar4download.com/wp-content/uploads/2013/09/mzl.ftgzgojv.png" group-title="Arabischen Golf", Aljazeera Doc
-http://www.teledunet.tv:8888/aljazeera_doc.m3u8?idu=future_82354624560
-#EXTINF:24 tvg-logo="" group-title="Arabischen Golf", Nat Geo AD
-http://www.teledunet.tv:8888/nat_geo_ad.m3u8?idu=future_82354624560
+
 #EXTINF:19 tvg-logo="" group-title="Arabischen Golf", Dubai
 http://www.teledunet.tv:8888/dubai.m3u8?idu=future_82354624560
 #EXTINF:20 tvg-logo="" group-title="Arabischen Golf", Sama Dubai
@@ -133,7 +130,10 @@ http://www.teledunet.tv:8888/kuwait.m3u8?idu=future_82354624560
 http://www.teledunet.tv:8888/funoon.m3u8?idu=future_82354624560
 #EXTINF:454",Bahrain
 http://www.teledunet.tv:8888/bahrain.m3u8?idu=future_82354624560
-
+#EXTINF:23 tvg-logo="http://ar4download.com/wp-content/uploads/2013/09/mzl.ftgzgojv.png" group-title="Arabischen Golf", Aljazeera Doc
+http://www.teledunet.tv:8888/aljazeera_doc.m3u8?idu=future_82354624560
+#EXTINF:24 tvg-logo="" group-title="Arabischen Golf", Nat Geo AD
+http://www.teledunet.tv:8888/nat_geo_ad.m3u8?idu=future_82354624560
 
 
 
