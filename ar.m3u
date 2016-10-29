@@ -106,6 +106,46 @@ http://www.teledunet.tv:8888/abu_dhabi.m3u8?idu=future_82354624560
 http://www.teledunet.tv:8888/abu_dhabi_drama.m3u8?idu=future_82354624560
 #EXTINF:338",Abu Dhabi Emarat
 http://www.teledunet.tv:8888/abu_dhabi_emarat.m3u8?idu=future_82354624560
+#EXTINF:410",Qatar
+http://www.teledunet.tv:8888/qatar.m3u8?idu=future_82354624560
+#EXTINF:416",KSA 1
+http://www.teledunet.tv:8888/ksa_1.m3u8?idu=future_82354624560
+#EXTINF:418",KSA 2
+http://www.teledunet.tv:8888/ksa_2.m3u8?idu=future_82354624560
+#EXTINF:420",Al Quran Al Karim
+http://www.teledunet.tv:8888/al_quran_al_karim.m3u8?idu=future_82354624560
+#EXTINF:422",Al Resalah
+http://www.teledunet.tv:8888/al_resalah.m3u8?idu=future_82354624560
+#EXTINF:424",Alkass Tv
+http://www.teledunet.tv:8888/alkass_tv.m3u8?idu=future_82354624560
+#EXTINF:426",Iqra
+http://www.teledunet.tv:8888/iqra.m3u8?idu=future_82354624560
+#EXTINF:428",Al Ekhbaria
+http://www.teledunet.tv:8888/al_ekhbaria.m3u8?idu=future_82354624560
+#EXTINF:430",Al Majd
+http://www.teledunet.tv:8888/al_majd.m3u8?idu=future_82354624560
+#EXTINF:436",Kuwait
+http://www.teledunet.tv:8888/kuwait.m3u8?idu=future_82354624560
+#EXTINF:438",Funoon
+http://www.teledunet.tv:8888/funoon.m3u8?idu=future_82354624560
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -547,36 +587,14 @@ http://www.teledunet.tv:8888/ishtar.m3u8?idu=future_82354624560
 http://www.teledunet.tv:8888/al_rasheed.m3u8?idu=future_82354624560
 #EXTINF:408",Al Haneen Music
 http://www.teledunet.tv:8888/al_haneen_music.m3u8?idu=future_82354624560
-#EXTINF:410",Qatar
-http://www.teledunet.tv:8888/qatar.m3u8?idu=future_82354624560
 #EXTINF:412",Palestine
 http://www.teledunet.tv:8888/palestine.m3u8?idu=future_82354624560
 #EXTINF:414",Alqudis
 http://www.teledunet.tv:8888/alqudis.m3u8?idu=future_82354624560
-#EXTINF:416",KSA 1
-http://www.teledunet.tv:8888/ksa_1.m3u8?idu=future_82354624560
-#EXTINF:418",KSA 2
-http://www.teledunet.tv:8888/ksa_2.m3u8?idu=future_82354624560
-#EXTINF:420",Al Quran Al Karim
-http://www.teledunet.tv:8888/al_quran_al_karim.m3u8?idu=future_82354624560
-#EXTINF:422",Al Resalah
-http://www.teledunet.tv:8888/al_resalah.m3u8?idu=future_82354624560
-#EXTINF:424",Alkass Tv
-http://www.teledunet.tv:8888/alkass_tv.m3u8?idu=future_82354624560
-#EXTINF:426",Iqra
-http://www.teledunet.tv:8888/iqra.m3u8?idu=future_82354624560
-#EXTINF:428",Al Ekhbaria
-http://www.teledunet.tv:8888/al_ekhbaria.m3u8?idu=future_82354624560
-#EXTINF:430",Al Majd
-http://www.teledunet.tv:8888/al_majd.m3u8?idu=future_82354624560
-#EXTINF:432",Al Alam
-http://www.teledunet.tv:8888/al_alam.m3u8?idu=future_82354624560
-#EXTINF:434",Libya Tv
-http://www.teledunet.tv:8888/libya_tv.m3u8?idu=future_82354624560
-#EXTINF:436",Kuwait
-http://www.teledunet.tv:8888/kuwait.m3u8?idu=future_82354624560
-#EXTINF:438",Funoon
-http://www.teledunet.tv:8888/funoon.m3u8?idu=future_82354624560
+
+
+
+
 #EXTINF:440",Roya
 http://www.teledunet.tv:8888/roya.m3u8?idu=future_82354624560
 #EXTINF:442",Jordan
