@@ -123,6 +123,7 @@ http://www.teledunet.tv:8888/nat_geo_ad.m3u8?idu=future_82354624560
 ====================  Islamic   ====================
 
 
+#EXTINF:39 tvg-logo="" group-title="Islamic", Islamic
 
 #EXTINF:416",KSA 1
 http://www.teledunet.tv:8888/ksa_1.m3u8?idu=future_82354624560
