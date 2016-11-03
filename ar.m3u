@@ -40,7 +40,7 @@ http://www.teledunet.tv:8888/mbc_masr_2.m3u8?idu=future_82354624560
 
 
 
-==================== NEWS  ====================
+==================== News  ====================
 
 #EXTINF:11 tvg-logo="http://www.123srilanka.net/images/media/1415-0.png" group-title="NEWS", Aljazeera
 http://www.teledunet.tv:8888/aljazeera.m3u8?idu=future_82354624560
@@ -66,7 +66,7 @@ http://www.teledunet.tv:8888/al_araby.m3u8?idu=future_82354624560
 #EXTINF:18 tvg-logo="http://nilesat-arabic-iptv.abuouday.com/channels/trt.jpg" group-title="NEWS", TRT Arabia
 http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
 
-==================== GOLF  ====================
+==================== Golf  ====================
 
 #EXTINF:19 tvg-logo="" group-title="Arabischen Golf", Dubai
 http://www.teledunet.tv:8888/dubai.m3u8?idu=future_82354624560
@@ -116,16 +116,6 @@ http://www.teledunet.tv:8888/nat_geo_ad.m3u8?idu=future_82354624560
 
 #EXTINF:39 tvg-logo="" group-title="Libanon & Syria", Libanon & Syria 
 
-#EXTINF:455",Syria
-http://www.teledunet.tv:8888/syria.m3u8?idu=future_82354624560
-#EXTINF:34",Syria Drama
-http://www.teledunet.tv:8888/syria_drama.m3u8?idu=future_82354624560
-#EXTINF:36",Sama Tv
-http://www.teledunet.tv:8888/sama_tv.m3u8?idu=future_82354624560
-#EXTINF:38",Nour Sham
-http://www.teledunet.tv:8888/nour_sham.m3u8?idu=future_82354624560
-
-
 #EXTINF:40",ANN
 http://www.teledunet.tv:8888/ann.m3u8?idu=future_82354624560
 #EXTINF:42",Al Ekhbariya Al Soriya
@@ -160,10 +150,17 @@ http://www.teledunet.tv:8888/otv_lebanon.m3u8?idu=future_82354624560
 
 
 
+#EXTINF:455",Syria
+http://www.teledunet.tv:8888/syria.m3u8?idu=future_82354624560
+#EXTINF:34",Syria Drama
+http://www.teledunet.tv:8888/syria_drama.m3u8?idu=future_82354624560
+#EXTINF:36",Sama Tv
+http://www.teledunet.tv:8888/sama_tv.m3u8?idu=future_82354624560
+#EXTINF:38",Nour Sham
+http://www.teledunet.tv:8888/nour_sham.m3u8?idu=future_82354624560
 
 
-
-====================  KINDER   ====================
+====================  Kinder   ====================
 
 #EXTINF:69 tvg-logo="" group-title="Kinder", Kinder 
 #EXTINF:80",Cima Ali Baba
@@ -193,17 +190,7 @@ http://www.teledunet.tv:8888/ajyal.m3u8?idu=future_82354624560
 
 
 
-
-
-
-
-
-
-
-
-
-
-
+====================  Ägypten   ====================
 
 
 
@@ -341,8 +328,7 @@ http://www.teledunet.tv:8888/nile_tv.m3u8?idu=future_82354624560
 
 
 
-
-
+====================  Other   ====================
 
 
 
@@ -415,7 +401,6 @@ http://www.teledunet.tv:8888/blue_nile.m3u8?idu=future_82354624560
 http://www.teledunet.tv:8888/sudan_tv.m3u8?idu=future_82354624560
 #EXTINF:332",Neelain Sport
 http://www.teledunet.tv:8888/neelain_sport.m3u8?idu=future_82354624560
-
 #EXTINF:340",Abu Dhabi Sports 1
 http://www.teledunet.tv:8888/abu_dhabi_sports_1.m3u8?idu=future_82354624560
 #EXTINF:342",Abu Dhabi Sports 2
@@ -450,7 +435,6 @@ http://www.teledunet.tv:8888/iraqia_sport.m3u8?idu=future_82354624560
 http://www.teledunet.tv:8888/al_mawsleya.m3u8?idu=future_82354624560
 #EXTINF:384",Dijlah Tv
 http://www.teledunet.tv:8888/dijlah_tv.m3u8?idu=future_82354624560
-
 #EXTINF:386",Al Anbar
 http://www.teledunet.tv:8888/al_anbar.m3u8?idu=future_82354624560
 #EXTINF:388",Karbala Tv
@@ -479,15 +463,10 @@ http://www.teledunet.tv:8888/al_haneen_music.m3u8?idu=future_82354624560
 http://www.teledunet.tv:8888/palestine.m3u8?idu=future_82354624560
 #EXTINF:414",Alqudis
 http://www.teledunet.tv:8888/alqudis.m3u8?idu=future_82354624560
-
-
-
 #EXTINF:74",Noursat
 http://www.teledunet.tv:8888/noursat.m3u8?idu=future_82354624560
 #EXTINF:76",Noursat Alchabab
 http://www.teledunet.tv:8888/noursat_alchabab.m3u8?idu=future_82354624560
-#EXTINF:78",LLBN
-http://www.teledunet.tv:8888/llbn.m3u8?idu=future_82354624560
 #EXTINF:440",Roya
 http://www.teledunet.tv:8888/roya.m3u8?idu=future_82354624560
 #EXTINF:442",Jordan
@@ -502,67 +481,6 @@ http://www.teledunet.tv:8888/yemen.m3u8?idu=future_82354624560
 http://www.teledunet.tv:8888/aden.m3u8?idu=future_82354624560
 #EXTINF:452",Oman
 http://www.teledunet.tv:8888/oman.m3u8?idu=future_82354624560
-
-
-
-
-
-#EXTINF:456",Mauritanie
-http://www.teledunet.tv:8888/mauritanie.m3u8?idu=future_82354624560
-#EXTINF:458",Kurdmax
-http://www.teledunet.tv:8888/kurdmax.m3u8?idu=future_82354624560
-#EXTINF:460",EBC Ethiopia
-http://www.teledunet.tv:8888/ebc_ethiopia.m3u8?idu=future_82354624560
-#EXTINF:462",Tchad
-http://www.teledunet.tv:8888/tchad.m3u8?idu=future_82354624560
-#EXTINF:464",Eriteria Tv
-http://www.teledunet.tv:8888/eriteria_tv.m3u8?idu=future_82354624560
-#EXTINF:466",ESTV
-http://www.teledunet.tv:8888/estv.m3u8?idu=future_82354624560
-#EXTINF:468",SNTV
-http://www.teledunet.tv:8888/sntv.m3u8?idu=future_82354624560
-#EXTINF:470",Kalsan Tv
-http://www.teledunet.tv:8888/kalsan_tv.m3u8?idu=future_82354624560
-#EXTINF:472",Somali Land
-http://www.teledunet.tv:8888/somali_land.m3u8?idu=future_82354624560
-#EXTINF:474",Horn Cable Tv
-http://www.teledunet.tv:8888/horn_cable_tv.m3u8?idu=future_82354624560
-#EXTINF:476",Somali cable Tv
-http://www.teledunet.tv:8888/somali_cable_tv.m3u8?idu=future_82354624560
-#EXTINF:478",Universal Somali Tv
-http://www.teledunet.tv:8888/universal_somali_tv.m3u8?idu=future_82354624560
-#EXTINF:480",TF1
-http://www.teledunet.tv:8888/tf1.m3u8?idu=future_82354624560
-#EXTINF:482",M6
-http://www.teledunet.tv:8888/m6.m3u8?idu=future_82354624560
-#EXTINF:484",France 2
-http://www.teledunet.tv:8888/france_2.m3u8?idu=future_82354624560
-#EXTINF:486",France 3
-http://www.teledunet.tv:8888/france_3.m3u8?idu=future_82354624560
-#EXTINF:488",France 4
-http://www.teledunet.tv:8888/france_4.m3u8?idu=future_82354624560
-#EXTINF:490",France 5
-http://www.teledunet.tv:8888/france_5.m3u8?idu=future_82354624560
-#EXTINF:492",France O
-http://www.teledunet.tv:8888/france_o.m3u8?idu=future_82354624560
-#EXTINF:494",Gulli
-http://www.teledunet.tv:8888/gulli.m3u8?idu=future_82354624560
-#EXTINF:496",Piwi
-http://www.teledunet.tv:8888/piwi.m3u8?idu=future_82354624560
-#EXTINF:498",I Tele
-http://www.teledunet.tv:8888/i_tele.m3u8?idu=future_82354624560
-#EXTINF:500",W9
-http://www.teledunet.tv:8888/w9.m3u8?idu=future_82354624560
-#EXTINF:502",D8
-http://www.teledunet.tv:8888/d8.m3u8?idu=future_82354624560
-#EXTINF:504",ARTE
-http://www.teledunet.tv:8888/arte.m3u8?idu=future_82354624560
-#EXTINF:506",Canal plus
-http://www.teledunet.tv:8888/canal_plus.m3u8?idu=future_82354624560
-#EXTINF:508",Canal plus Sport
-http://www.teledunet.tv:8888/canal_plus_sport.m3u8?idu=future_82354624560
-#EXTINF:26",Aljazeera Misr
-http://www.teledunet.tv:8888/aljazeera_misr.m3u8?idu=future_82354624560
 #EXTINF:27",Quest Arabiya
 http://www.teledunet.tv:8888/quest_arabiya.m3u8?idu=future_82354624560
 #EXTINF:440",Tunisia national 1
@@ -600,6 +518,38 @@ http://www.teledunet.tv:8888/al_magharibia.m3u8?idu=future_82354624560
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+====================  Other   ====================
 
 
 
