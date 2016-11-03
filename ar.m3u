@@ -114,7 +114,7 @@ http://www.teledunet.tv:8888/nat_geo_ad.m3u8?idu=future_82354624560
 
 ====================  Libanon & Syria   ====================
 
-#EXTINF:39 tvg-logo="" group-title="Libanon", Libanon & Syria 
+#EXTINF:39 tvg-logo="" group-title="Libanon & Syria", Libanon & Syria 
 
 #EXTINF:455",Syria
 http://www.teledunet.tv:8888/syria.m3u8?idu=future_82354624560
