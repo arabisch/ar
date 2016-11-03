@@ -126,7 +126,8 @@ http://www.teledunet.tv:8888/nat_geo_ad.m3u8?idu=future_82354624560
 #EXTINF:39 tvg-logo="" group-title="Islamic", Islamic
 
 #EXTINF:-1,Saudia Sunna
-http://localhd.tv:8081/live/moi/moi/2130.ts
+http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel7/_definst_/live/stream1.m3u8
+
 
 #EXTINF:416",KSA 1
 http://www.teledunet.tv:8888/ksa_1.m3u8?idu=future_82354624560
