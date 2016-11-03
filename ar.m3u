@@ -112,6 +112,33 @@ http://www.teledunet.tv:8888/aljazeera_doc.m3u8?idu=future_82354624560
 http://www.teledunet.tv:8888/nat_geo_ad.m3u8?idu=future_82354624560
 
 
+
+
+
+
+
+
+
+
+====================  Islamic   ====================
+
+
+
+#EXTINF:416",KSA 1
+http://www.teledunet.tv:8888/ksa_1.m3u8?idu=future_82354624560
+#EXTINF:418",KSA 2
+http://www.teledunet.tv:8888/ksa_2.m3u8?idu=future_82354624560
+#EXTINF:420",Al Quran Al Karim
+http://www.teledunet.tv:8888/al_quran_al_karim.m3u8?idu=future_82354624560
+#EXTINF:422",Al Resalah
+http://www.teledunet.tv:8888/al_resalah.m3u8?idu=future_82354624560
+#EXTINF:426",Iqra
+http://www.teledunet.tv:8888/iqra.m3u8?idu=future_82354624560
+#EXTINF:430",Al Majd
+http://www.teledunet.tv:8888/al_majd.m3u8?idu=future_82354624560
+
+
+
 ====================  Libanon & Syria   ====================
 
 #EXTINF:39 tvg-logo="" group-title="Libanon & Syria", Libanon & Syria 
@@ -149,15 +176,16 @@ http://www.teledunet.tv:8888/otv_lebanon.m3u8?idu=future_82354624560
 
 
 
-
 #EXTINF:455",Syria
 http://www.teledunet.tv:8888/syria.m3u8?idu=future_82354624560
 #EXTINF:34",Syria Drama
 http://www.teledunet.tv:8888/syria_drama.m3u8?idu=future_82354624560
-#EXTINF:36",Sama Tv
-http://www.teledunet.tv:8888/sama_tv.m3u8?idu=future_82354624560
+#EXTINF:36,Sama
+http://sama-tv.net:1935/live/samatv/playlist.m3u8
 #EXTINF:38",Nour Sham
 http://www.teledunet.tv:8888/nour_sham.m3u8?idu=future_82354624560
+#EXTINF:39,SYRIA ALSHAM
+http://shamfm.tv:1935/live/shamfm/playlist.m3u8
 
 
 ====================  Kinder   ====================
