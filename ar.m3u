@@ -19,7 +19,7 @@ http://www.teledunet.tv:8888/mbc_4.m3u8?idu=future_82354624560
 #EXTINF:5 tvg-logo="http://www.mbc.net/ar/mbc-drama/ogImageBinary/a8f26123482311fadb0cca332fa818289eb5e183/MBC_Drama.jpg" group-title="MBC", MBC DRAMA
 http://www.teledunet.tv:8888/mbc_drama.m3u8?idu=future_82354624560
 
-#EXTINF:6 tvg-logo="http://temosoft.com/wp-content/uploads/2015/03/action_logo_fb.jpg" group-title="MBC GROUP", MBC Action
+#EXTINF:6 tvg-logo="http://temosoft.com/wp-content/uploads/2015/03/action_logo_fb.jpg" group-title="MBC", MBC Action
 http://www.teledunet.tv:8888/mbc_action.m3u8?idu=future_82354624560
 
 #EXTINF:7 tvg-logo="http://cdn.marketplaceimages.windowsphone.com/v8/images/92089e9e-f4ee-47bc-90ab-e5de9bdd9bcf?imageType=ws_icon_large" group-title="MBC", MBC Bollywood
