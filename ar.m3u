@@ -25,7 +25,7 @@ http://www.teledunet.tv:8888/mbc_action.m3u8?idu=future_82354624560
 #EXTINF:7 tvg-logo="http://cdn.marketplaceimages.windowsphone.com/v8/images/92089e9e-f4ee-47bc-90ab-e5de9bdd9bcf?imageType=ws_icon_large" group-title="MBC", MBC Bollywood
 http://www.teledunet.tv:8888/mbc_bollywood.m3u8?idu=future_82354624560
 
-#EXTINF:8 tvg-logo="https://1.bp.blogspot.com/-8a6HtkOluNM/Vp1MZ2laHSI/AAAAAAAAA8g/zYipclOmdxomgGufLPyL0gP2aSOGaKJqwCKgB/s200/mbc-max.png" group-title="MBC", ,MBC MAX
+#EXTINF:8 tvg-logo="http://www.abox42.tv/media/opx/digidata/IDM/MBC%20MAX.png" group-title="MBC", ,MBC MAX
 http://www.teledunet.tv:8888/mbc_max.m3u8?idu=future_82354624560
 
 #EXTINF:9 tvg-logo="http://www.mbc.net/ar/mbc-maser/ogImageBinary/908bca5f8f772d176e66a269e951be9e26424f63/MBC_Masr.jpg" group-title="MBC", ,MBC Masr
