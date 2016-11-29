@@ -1,37 +1,35 @@
 #EXTM3U
 
 
-==================== MBC  ====================
+==================== mbc  ====================
 
 
-#EXTINF:1 tvg-logo="http://www.mbc.net/ar/mbc1/ogImageBinary/ba71b92a828a5e4372f2a822e454584b8cd54d17/MBC1.jpg" group-title="MBC", MBC 1		
+#EXTINF:1 tvg-logo="http://www.mbc.net/ar/mbc1/ogImageBinary/ba71b92a828a5e4372f2a822e454584b8cd54d17/MBC1.jpg" group-title="MBC", mbc 1		
 http://www.teledunet.tv:8888/mbc_1.m3u8?idu=future_82354624560
 
 #EXTINF:2 tvg-logo="http://4.bp.blogspot.com/-OmFLWDokObI/VohZRCc9ZRI/AAAAAAAAA0A/d2PTa3dYkCY/s1600/cb3bfe91-cf6e-473b-9ac3-6ac701be8483.png" group-title="MBC", MBC 2
 http://www.teledunet.tv:8888/mbc_2.m3u8?idu=future_82354624560
 
-#EXTINF:3 tvg-logo="http://www.6rrb.net/tv/files/image/mbc3.jpg" group-title="MBC", MBC 3
-http://www.teledunet.tv:8888/mbc_3.m3u8?idu=future_82354624560
 
-#EXTINF:4 tvg-logo="http://www.mbc.net/ar/mbc4/ogImageBinary/b170bea76848ff60d6f89c6cb2c3485f78d14223/MBC4.jpg" group-title="MBC", MBC 4
+#EXTINF:4 tvg-logo="http://www.mbc.net/ar/mbc4/ogImageBinary/b170bea76848ff60d6f89c6cb2c3485f78d14223/MBC4.jpg" group-title="MBC", mbc 4
 http://www.teledunet.tv:8888/mbc_4.m3u8?idu=future_82354624560
 
-#EXTINF:5 tvg-logo="http://www.mbc.net/ar/mbc-drama/ogImageBinary/a8f26123482311fadb0cca332fa818289eb5e183/MBC_Drama.jpg" group-title="MBC", MBC DRAMA
+#EXTINF:5 tvg-logo="http://www.mbc.net/ar/mbc-drama/ogImageBinary/a8f26123482311fadb0cca332fa818289eb5e183/MBC_Drama.jpg" group-title="MBC", mbcrama Drama
 http://www.teledunet.tv:8888/mbc_drama.m3u8?idu=future_82354624560
 
-#EXTINF:6 tvg-logo="http://temosoft.com/wp-content/uploads/2015/03/action_logo_fb.jpg" group-title="MBC", MBC Action
+#EXTINF:6 tvg-logo="http://temosoft.com/wp-content/uploads/2015/03/action_logo_fb.jpg" group-title="MBC", mbc Action
 http://www.teledunet.tv:8888/mbc_action.m3u8?idu=future_82354624560
 
-#EXTINF:7 tvg-logo="http://2.bp.blogspot.com/-R6a5hZD_53E/Vnb1NFUCMLI/AAAAAAAAF3w/lfJJG2kPt1Y/s1600/mbc%2Bboolywood.jpeg" group-title="MBC", MBC Bollywood
+#EXTINF:7 tvg-logo="http://2.bp.blogspot.com/-R6a5hZD_53E/Vnb1NFUCMLI/AAAAAAAAF3w/lfJJG2kPt1Y/s1600/mbc%2Bboolywood.jpeg" group-title="MBC", mbc Bollywood
 http://www.teledunet.tv:8888/mbc_bollywood.m3u8?idu=future_82354624560
 
-#EXTINF:8 tvg-logo="http://www.abox42.tv/media/opx/digidata/IDM/MBC%20MAX.png" group-title="MBC", ,MBC MAX
+#EXTINF:8 tvg-logo="http://www.abox42.tv/media/opx/digidata/IDM/MBC%20MAX.png" group-title="MBC", ,mbc Max
 http://www.teledunet.tv:8888/mbc_max.m3u8?idu=future_82354624560
 
-#EXTINF:9 tvg-logo="http://www.mbc.net/ar/mbc-maser/ogImageBinary/908bca5f8f772d176e66a269e951be9e26424f63/MBC_Masr.jpg" group-title="MBC", ,MBC Masr
+#EXTINF:9 tvg-logo="http://www.mbc.net/ar/mbc-maser/ogImageBinary/908bca5f8f772d176e66a269e951be9e26424f63/MBC_Masr.jpg" group-title="MBC", ,mbc Masr
 http://www.teledunet.tv:8888/mbc_masr.m3u8?idu=future_82354624560
 
-#EXTINF:10 tvg-logo="http://www.mbc.net/ar/mbc-masr-2/ogImageBinary/7b1c16c942fd2ef61a68e74ab68bf13c9920abd3/MBC_Masr2.jpg" group-title="MBC", ,MBC Masr 2
+#EXTINF:10 tvg-logo="http://www.mbc.net/ar/mbc-masr-2/ogImageBinary/7b1c16c942fd2ef61a68e74ab68bf13c9920abd3/MBC_Masr2.jpg" group-title="MBC", ,mbc Masr 2
 http://www.teledunet.tv:8888/mbc_masr_2.m3u8?idu=future_82354624560
 
 
@@ -192,6 +190,9 @@ http://shamfm.tv:1935/live/shamfm/playlist.m3u8
 
 
 ====================  Kinder   ====================
+
+#EXTINF:3 tvg-logo="http://www.6rrb.net/tv/files/image/mbc3.jpg" group-title="Kinder", mbc 3
+http://www.teledunet.tv:8888/mbc_3.m3u8?idu=future_82354624560
 
 #EXTINF:69 tvg-logo="" group-title="Kinder", Kinder 
 #EXTINF:80",Cima Ali Baba
