@@ -514,6 +514,48 @@ http://www.teledunet.tv:8888/aden.m3u8?idu=future_82354624560
 #EXTINF:452",Oman
 http://www.teledunet.tv:8888/oman.m3u8?idu=future_82354624560
 #EXTINF:27",Quest Arabiya
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+====================  Tunisia   ====================
+
+
+#EXTINF:25 tvg-logo="" group-title="Tunisia", Tunisia 
+
 http://www.teledunet.tv:8888/quest_arabiya.m3u8?idu=future_82354624560
 #EXTINF:440",Tunisia national 1
 http://www.teledunet.tv:8888/tunisia_national_1.m3u8?idu=future_82354624560
@@ -544,43 +586,5 @@ http://www.teledunet.tv:8888/m_tunisia.m3u8?idu=future_82354624560
 #EXTINF:454",Al Magharibia
 http://www.teledunet.tv:8888/al_magharibia.m3u8?idu=future_82354624560
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-====================  Other   ====================
 
 
