@@ -584,38 +584,3 @@ http://www.teledunet.tv:8888/al_magharibia.m3u8?idu=future_82354624560
 ====================  Other   ====================
 
 
-
-#EXTINF:237 tvg-logo="" group-title="Sport", Sport 
-#EXTINF:238",Bein Sport 1
-http://www.teledunet.tv:8888/bein_sport_1.m3u8?idu=future_82354624560
-#EXTINF:240",Bein Sport 2
-http://www.teledunet.tv:8888/bein_sport_2.m3u8?idu=future_82354624560
-#EXTINF:242",Bein Sport 3
-http://www.teledunet.tv:8888/bein_sport_3.m3u8?idu=future_82354624560
-#EXTINF:244",Bein Sport 4
-http://www.teledunet.tv:8888/bein_sport_4.m3u8?idu=future_82354624560
-#EXTINF:246",Bein Sport 5
-http://www.teledunet.tv:8888/bein_sport_5.m3u8?idu=future_82354624560
-#EXTINF:248",Bein Sport 6
-http://www.teledunet.tv:8888/bein_sport_6.m3u8?idu=future_82354624560
-#EXTINF:250",Bein Sport 7
-http://www.teledunet.tv:8888/bein_sport_7.m3u8?idu=future_82354624560
-#EXTINF:252",Bein Sport 8
-http://www.teledunet.tv:8888/bein_sport_8.m3u8?idu=future_82354624560
-#EXTINF:254",Bein Sport 9
-http://www.teledunet.tv:8888/bein_sport_9.m3u8?idu=future_82354624560
-#EXTINF:256",Bein Sport 10
-http://www.teledunet.tv:8888/bein_sport_10.m3u8?idu=future_82354624560
-#EXTINF:258",Bein 1
-http://www.teledunet.tv:8888/bein_1.m3u8?idu=future_82354624560
-#EXTINF:260",Bein 2
-http://www.teledunet.tv:8888/bein_2.m3u8?idu=future_82354624560
-#EXTINF:262",Bein 3
-http://www.teledunet.tv:8888/bein_3.m3u8?idu=future_82354624560
-#EXTINF:264",Bein 4
-http://www.teledunet.tv:8888/bein_4.m3u8?idu=future_82354624560
-#EXTINF:266",Bein 5
-http://www.teledunet.tv:8888/bein_5.m3u8?idu=future_82354624560
-
-
-
