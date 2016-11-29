@@ -21,7 +21,7 @@ http://www.teledunet.tv:8888/mbc_4.m3u8?idu=future_82354624560
 #EXTINF:5 tvg-logo="http://www.mbc.net/ar/mbc-drama/ogImageBinary/a8f26123482311fadb0cca332fa818289eb5e183/MBC_Drama.jpg" group-title="MBC", Mbc Drama
 http://www.teledunet.tv:8888/mbc_drama.m3u8?idu=future_82354624560
 
-#EXTINF:6 tvg-logo="http://temosoft.com/wp-content/uploads/2015/03/action_logo_fb.jpg" group-title="MBC", mbc Action
+#EXTINF:6 tvg-logo="http://temosoft.com/wp-content/uploads/2015/03/action_logo_fb.jpg" group-title="MBC", Mbc Action
 http://www.teledunet.tv:8888/mbc_action.m3u8?idu=future_82354624560
 
 #EXTINF:7 tvg-logo="http://2.bp.blogspot.com/-R6a5hZD_53E/Vnb1NFUCMLI/AAAAAAAAF3w/lfJJG2kPt1Y/s1600/mbc%2Bboolywood.jpeg" group-title="MBC", Mbc Bollywood
