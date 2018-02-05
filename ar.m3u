@@ -18,7 +18,7 @@ http://www.teledunet.tv:8888/mbc_2.m3u8?idu=future_82354624560
 #EXTINF:4 tvg-logo="http://www.mbc.net/ar/mbc4/ogImageBinary/b170bea76848ff60d6f89c6cb2c3485f78d14223/MBC4.jpg" group-title="MBC", Mbc 4
 http://www.teledunet.tv:8888/mbc_4.m3u8?idu=future_82354624560
 
-#EXTINF:5 tvg-logo="http://www.mbc.net/ar/mbc-drama/ogImageBinary/a8f26123482311fadb0cca332fa818289eb5e183/MBC_Drama.jpg" group-title="MBC", Mbc Drama
+#EXTINF:5 tvg-logo="http://www.mbc.net/ar/mbc-/ogImageBinary/a8f26123482311fadb0cca332fa818289eb5e183/MBC_Drama.jpg" group-title="MBC", Mbc Drama
 http://www.teledunet.tv:8888/mbc_drama.m3u8?idu=future_82354624560
 
 #EXTINF:6 tvg-logo="http://temosoft.com/wp-content/uploads/2015/03/action_logo_fb.jpg" group-title="MBC", Mbc Action
@@ -78,7 +78,7 @@ http://www.teledunet.tv:8888/dubai_one.m3u8?idu=future_82354624560
 #EXTINF:334",Abu Dhabi
 http://www.teledunet.tv:8888/abu_dhabi.m3u8?idu=future_82354624560
 #EXTINF:336",Abu Dhabi Drama
-http://www.teledunet.tv:8888/abu_dhabi_drama.m3u8?idu=future_82354624560
+http://adtv.ercdn.net/addrama/addrama_360p.m3u8
 #EXTINF:338",Abu Dhabi Emarat
 http://www.teledunet.tv:8888/abu_dhabi_emarat.m3u8?idu=future_82354624560
 #EXTINF:410",Qatar
