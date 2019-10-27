@@ -7,3 +7,6 @@ http://livecdnh2.tvanywhere.ae/hls/mbc_drama/03.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="1: Rotana khalijeah" tvg-logo="" group-title="Rotana", rotkhal
 http://livecdnh3.tvanywhere.ae/hls/rotkhal/04.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="1: Rotana Drama" tvg-logo="" group-title="Rotana", Rotana Drama
+http://livecdnh3.tvanywhere.ae/hls/rotmas/04.m3u8
