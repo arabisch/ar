@@ -5,5 +5,5 @@ http://livecdnh2.tvanywhere.ae/hls/mbc1/04.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="1: Mbc Drama" tvg-logo="" group-title="MBC", Mbc Drama
 http://livecdnh2.tvanywhere.ae/hls/mbc_drama/03.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="1: Mbc Drama Plus" tvg-logo="" group-title="MBC", Mbc Drama Plus
-http://livecdnh2.tvanywhere.ae/hls/mbc_drama/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="1: Rotana khalijeah" tvg-logo="" group-title="Rotana", rotkhal
+http://livecdnh3.tvanywhere.ae/hls/rotkhal/04.m3u8
