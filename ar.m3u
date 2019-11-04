@@ -1,19 +1,1 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="1: Mbc 1" tvg-logo="" group-title="MBC", Mbc 1
-http://livecdnh2.tvanywhere.ae/hls/mbc1/04.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="1: Mbc Drama" tvg-logo="" group-title="MBC", Mbc Drama
-http://livecdnh2.tvanywhere.ae/hls/mbc_drama/03.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="1: Rotana khalijeah" tvg-logo="" group-title="Rotana", Rotana khalijeah
-http://livecdnh3.tvanywhere.ae/hls/rotkhal/04.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="1: Rotana Drama" tvg-logo="" group-title="Rotana", Rotana Drama
-http://livecdnh3.tvanywhere.ae/hls/rotmas/04.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-name="1: ABU DHABI EL OULA" tvg-logo="" group-title="ABU DHABI", ABU DHABI EL OULA
-http://adtv.ercdn.net/adaloula/adaloula_480p.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="1: ABU DHABI DRAMA" tvg-logo="" group-title="ABU DHABI", ABU DHABI DRAMA
-http://adtv.ercdn.net/addrama/addrama_360p.m3u8
