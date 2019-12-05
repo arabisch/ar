@@ -1,1 +1,143 @@
+#EXTINM3U
 
+
+#EXTINF:-1 tvg-id="" tvg-name="1: Mbc 1" tvg-logo="" group-title="MBC", Mbc 1
+http://livecdnh2.tvanywhere.ae/hls/mbc1/04.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="1: Mbc Drama" tvg-logo="" group-title="MBC", Mbc Drama
+http://livecdnh2.tvanywhere.ae/hls/mbc_drama/03.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="1: Rotana khalijeah" tvg-logo="" group-title="Rotana", Rotana khalijeah
+http://livecdnh3.tvanywhere.ae/hls/rotkhal/04.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="1: Rotana Drama" tvg-logo="" group-title="Rotana", Rotana Drama
+http://livecdnh3.tvanywhere.ae/hls/rotmas/04.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="1: ABU DHABI EL OULA" tvg-logo="" group-title="ABU DHABI", ABU DHABI EL OULA
+http://adtv.ercdn.net/adaloula/adaloula_480p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="1: ABU DHABI DRAMA" tvg-logo="" group-title="ABU DHABI", ABU DHABI DRAMA
+http://adtv.ercdn.net/addrama/addrama_360p.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="1: Mbc 1" tvg-logo="" group-title="MBC", Mbc 1
+http://livecdnh2.tvanywhere.ae/hls/mbc1/04.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="1: Mbc 2" tvg-logo="" group-title="MBC", Mbc 2
+http://livecdnh3.tvanywhere.ae/hls/mbc2/04.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="1: Mbc 4" tvg-logo="" group-title="MBC", Mbc 4
+http://livecdnh3.tvanywhere.ae/hls/mbc4/04.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="1: Mbc Action" tvg-logo="" group-title="MBC", Mbc Action
+http://tv.teledunet.com:25461/live/web/premium/10093.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="1: Mbc MAX" tvg-logo="" group-title="MBC", Mbc MAX
+http://livecdnh3.tvanywhere.ae/hls/mbcmax/04.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="1: Mbc Drama" tvg-logo="" group-title="MBC", Mbc Drama
+http://livecdnh2.tvanywhere.ae/hls/mbc_drama/04.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="1: Mbc Plus" tvg-logo="" group-title="MBC", Mbc Drama Plus
+http://95.170.215.118/hls/m3u8/MBC-DRAMA-SS.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="1: Mbc Iraq" tvg-logo="" group-title="MBC", Mbc Iraq
+http://212.8.253.47:88/live/mbcunivers/OpJs06zT6s/2962.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="1: Mbc Masr" tvg-logo="" group-title="MBC", Mbc Masr
+http://livecdnh2.tvanywhere.ae/hls/mbc_msr/04.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="1: Mbc Masr 2" tvg-logo="" group-title="MBC", Mbc Masr 2
+http://95.170.215.107/hls/MBC-Masr-2-Backu-M.m3u8
+
+
+#EXTINF:MBC VAIRETY
+http://212.8.253.47:88/live/mbcunivers/OpJs06zT6s/1707.m3u8
+
+#EXTINF:MBC BOLLYWOOD
+http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/04.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="1: KSA 1" tvg-logo="" group-title="MBC", KSA 1
+https://cllive.itworkscdn.net/ksa1live/token=nva=1572273487~dirs=1~hash=04db7a62cb81fe3d66edd/ksa1.smil/chunklist_b1800000.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="1: SBC" tvg-logo="" group-title="MBC", SBC
+https://cllive.itworkscdn.net/sbclive/token=nva=1572273415~dirs=1~hash=0b5c472a6dfa8e2177f76/sbc.smil/chunklist_b2000000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="1: Kuwait TV" tvg-logo="" group-title="MBC", Kuwait TV
+https://svs.itworkscdn.net/ktv1live/ktv1.smil/chunklist_b2400000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="1: RIA" tvg-logo="" group-title="MBC", RIA
+https://stream02.fasttelco.net/live/alrai.stream/playlist.m3u8
+
+#EXTINF:ATV
+rtmp://168.187.49.14/live/atv
+#EXTINF:FUNOON
+http://livecdnh3.tvanywhere.ae:80/hls/funoon/03.m3u8
+#EXTINF:OMANTV
+http://38.96.148.35:1935/live/omantv03/chunklist_w2090208946.m3u8
+#EXTINF:ALIRAYYAN1
+http://alrayyan1live.azureedge.net:80/alrayyan1/alrayyan1.smil/chunklist_b564000.m3u8
+#EXTINF:BAHRAN 
+http://185.105.4.106:1935/live/Bahrain%20TV/chunklist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="1: Sama Dubai" tvg-logo="" group-title="ABU DHABI", Sama Dubai
+http://dmieigthvll.cdn.mangomolo.com:80/samadubai/smil:samadubai.stream.smil/chunklist_b1600000.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="1: Dubai Tv" tvg-logo="" group-title="ABU DHABI", Dubai Tv
+http://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.stream.smil/chunklist_b850000.m3u8
+
+#EXTINF:dubaizaman
+http://dmiffthvll.cdn.mangomolo.com:80/dubaizaman/smil:dubaizaman.smil/chunklist_b1500000.m3u8
+
+#EXTINF:adalemarat
+http://adtv.ercdn.net:80/adalemarat/adalemarat_480p.m3u8
+
+#EXTINF:adaloula
+http://adtv.ercdn.net:80/adaloula/adaloula_480p.m3u8
+#EXTINF:smc1live
+https://svs.itworkscdn.net:443/smc1live/smc1.smil/chunklist_b860000.m3u8
+#EXTINF:addrama
+http://adtv.ercdn.net:80/addrama/addrama_360p.m3u8
+
+
+#EXTINF:definst
+http://aldafrahtv.noip.us:1935/live/_definst_/myStream1/chunklist_w341939934.m3u8?v=3307456209
+
+
+#EXTINF:-1 tvg-id="" tvg-name="1: Qatar" tvg-logo="" group-title="MBC", Qatar
+http://qtv-i.akamaihd.net/hls/live/213233/QTV/s_199130.m3u8
+
+#EXTINF:alrayyanqadeem
+https://svs.itworkscdn.net/alrayyanqadeemlive/alrayyanqadeem.smil/chunklist_b3500000.m3u8
+
+#EXTINF:ktvpluslive
+https://svs.itworkscdn.net/ktvpluslive/smil:kplus.smil/chunklist_b2400000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="1: Rotana Drama" tvg-logo="" group-title="ROTANA", Roatana Drama
+http://livecdnh3.tvanywhere.ae/hls/rotmas/04.m3u8
+
+#EXTINF:ROTANA 
+http://livecdnh3.tvanywhere.ae/hls/rotkhal/03.m3u8
+#EXTINF:jadeed
+http://livecdnh3.tvanywhere.ae/hls/jadeed/04.m3u8
+#EXTINF:MTV
+http://livecdnh3.tvanywhere.ae/hls/MTVLbnHD/04.m3u8
+#EXTINF:LDC
+http://95.170.215.109/hls/m3u8/LDC-Backup.m3u8
+#EXTINF:lbc
+http://livecdnh2.tvanywhere.ae/hls/lbc_int/04.m3u8
